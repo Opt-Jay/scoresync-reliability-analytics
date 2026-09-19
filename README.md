@@ -100,7 +100,7 @@ The analysis deliberately separated **discovery** from **validation**:
 8. Remove rules that did not add stable unseen-data value.
 9. Freeze the simplest evidence-supported specification.
 
-See `docs/methodology.md` for details.
+See the [full validation methodology](docs/methodology.md) for details.
 
 ## Public-data note
 
