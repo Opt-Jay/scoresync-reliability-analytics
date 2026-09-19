@@ -1,0 +1,1001 @@
+sample_row_id,fixture_date,country,league_name,predicted_result,result,result_correct,result_confidence_score,strength_difference
+1,2026-08-08,Germany,Oberliga - Bayern Nord,AWAY,HOME,0,12.0,-3.0
+2,2026-09-06,Portugal,Campeonato de Portugal Prio - Group A,AWAY,AWAY,1,25.0,3.0
+3,2026-08-03,Iceland,1. Deild,AWAY,AWAY,1,49.0,-8.0
+4,2026-07-11,Australia,Northern NSW NPL,AWAY,HOME,0,15.0,9.0
+5,2026-08-18,World,Friendlies Clubs,AWAY,DRAW,0,69.0,-8.0
+6,2026-08-22,Portugal,Primeira Liga,AWAY,AWAY,1,12.0,-5.0
+7,2026-08-08,World,Friendlies Clubs,AWAY,DRAW,0,35.0,-2.0
+8,2026-08-08,Argentina,Torneo Federal A,AWAY,DRAW,0,35.0,5.0
+9,2026-08-21,Austria,Regionalliga - West,AWAY,DRAW,0,19.0,3.0
+10,2026-08-15,England,Non League Premier - Southern Central,AWAY,HOME,0,66.0,1.0
+11,2026-09-05,Slovenia,2. SNL,AWAY,HOME,0,35.0,-7.0
+12,2026-07-28,World,Friendlies Clubs,AWAY,HOME,0,24.0,-8.0
+13,2026-08-26,England,League Cup,AWAY,DRAW,0,16.0,8.0
+14,2026-08-22,Sweden,Damallsvenskan,AWAY,DRAW,0,7.0,9.0
+15,2026-08-08,England,National League,AWAY,HOME,0,13.0,5.0
+16,2026-07-06,Mongolia,Premier League,AWAY,AWAY,1,29.0,-3.0
+17,2026-08-16,Czech-Republic,3. liga - CFL A,AWAY,AWAY,1,21.0,5.0
+18,2026-09-05,Germany,Oberliga - Baden-Württemberg,AWAY,HOME,0,25.0,2.0
+19,2026-07-06,Brazil,Brasileirão Serie B,AWAY,HOME,0,12.0,-5.0
+20,2026-07-17,World,Friendlies Clubs,AWAY,DRAW,0,45.0,-1.0
+21,2026-07-27,Sweden,Svenska Cupen,AWAY,HOME,0,70.0,-3.0
+22,2026-08-23,World,AFC Women's Champions League,AWAY,AWAY,1,20.0,-9.0
+23,2026-09-06,World,CAF Champions League,AWAY,HOME,0,59.0,-6.0
+24,2026-07-25,World,Friendlies Clubs,AWAY,HOME,0,34.0,9.0
+25,2026-08-18,Portugal,Liga Revelação U23,AWAY,AWAY,1,20.0,-7.0
+26,2026-08-08,Japan,J3 League,AWAY,HOME,0,13.0,0.0
+27,2026-09-13,Peru,Primera División,AWAY,AWAY,1,49.0,1.0
+28,2026-08-15,England,League Two,AWAY,AWAY,1,53.0,-4.0
+29,2026-08-09,Malawi,Super League,AWAY,HOME,0,7.0,-4.0
+30,2026-07-25,World,Friendlies Clubs,AWAY,AWAY,1,5.0,-2.0
+31,2026-07-26,Scotland,Scottish League Cup,AWAY,AWAY,1,12.0,-5.0
+32,2026-08-09,Switzerland,Swiss Super League,AWAY,HOME,0,34.0,-4.0
+33,2026-08-23,Brazil,Serie B,AWAY,AWAY,1,64.0,9.0
+34,2026-08-15,South-Korea,K League 1,AWAY,HOME,0,56.0,-7.0
+35,2026-07-16,Australia,South Australia State League 1,AWAY,AWAY,1,19.0,9.0
+36,2026-07-20,Estonia,Esiliiga B,AWAY,HOME,0,30.0,-4.0
+37,2026-06-21,Argentina,Primera B Metropolitana,AWAY,HOME,0,,0.0
+38,2026-07-31,World,Friendlies Clubs,AWAY,DRAW,0,30.0,-5.0
+39,2026-08-23,Germany,U19 Bundesliga,AWAY,AWAY,1,46.0,-2.0
+40,2026-07-25,World,Friendlies Clubs,AWAY,AWAY,1,20.0,-5.0
+41,2026-09-05,South-Africa,Premier Soccer League,AWAY,DRAW,0,6.0,4.0
+42,2026-08-22,England,Non League Premier - Southern Central,AWAY,AWAY,1,6.0,4.0
+43,2026-07-31,World,Friendlies Clubs,AWAY,HOME,0,0.0,-3.0
+44,2026-07-28,World,Friendlies Clubs,AWAY,HOME,0,34.0,-6.0
+45,2026-08-25,Denmark,DBU Pokalen,AWAY,AWAY,1,85.0,-8.0
+46,2026-08-16,Germany,Oberliga - Hamburg,AWAY,AWAY,1,66.0,-3.0
+47,2026-09-05,Belgium,Jupiler Pro League,AWAY,AWAY,1,30.0,4.0
+48,2026-07-31,Australia,Victoria NPL 2,AWAY,HOME,0,35.0,5.0
+49,2026-08-14,Australia,New South Wales NPL,AWAY,AWAY,1,22.0,7.0
+50,2026-07-01,USA,USL League Two,AWAY,DRAW,0,,5.0
+51,2026-08-15,Sweden,Division 2 - Norrland,AWAY,HOME,0,60.0,-4.0
+52,2026-08-08,Norway,3. Division - Girone 1,AWAY,HOME,0,75.0,-5.0
+53,2026-09-06,Croatia,First NL,AWAY,HOME,0,34.0,-9.0
+54,2026-08-26,Argentina,Primera B Metropolitana,AWAY,HOME,0,24.0,6.0
+55,2026-09-05,Scotland,Football League - Highland League,AWAY,AWAY,1,35.0,-7.0
+56,2026-08-11,England,Non League Premier - Southern South,AWAY,AWAY,1,27.0,-7.0
+57,2026-08-08,Slovakia,3. liga - East,AWAY,HOME,0,85.0,-9.0
+58,2026-08-05,Romania,Cupa României,AWAY,DRAW,0,78.0,-9.0
+59,2026-09-05,Poland,I Liga,AWAY,DRAW,0,20.0,1.0
+60,2026-09-05,Netherlands,Derde Divisie,AWAY,AWAY,1,36.0,3.0
+61,2026-08-01,Poland,I Liga,AWAY,AWAY,1,64.0,-8.0
+62,2026-07-23,Argentina,Liga Profesional,AWAY,AWAY,1,35.0,-9.0
+63,2026-09-06,Portugal,Segunda Liga,AWAY,HOME,0,26.0,-5.0
+64,2026-08-08,Denmark,Division 1,AWAY,HOME,0,60.0,-5.0
+65,2026-07-01,USA,USL League Two,AWAY,HOME,0,,-1.0
+66,2026-07-31,Russia,Premier League,AWAY,AWAY,1,23.0,-1.0
+67,2026-08-18,England,Non League Premier - Northern,AWAY,DRAW,0,65.0,-9.0
+68,2026-08-24,Colombia,Primera B,AWAY,AWAY,1,12.0,-1.0
+69,2026-08-08,Germany,Regionalliga - Bayern,AWAY,DRAW,0,31.0,3.0
+70,2026-08-20,World,UEFA Europa Conference League,AWAY,DRAW,0,35.0,-2.0
+71,2026-08-08,Australia,Tasmania Northern Championship,AWAY,HOME,0,30.0,2.0
+72,2026-08-22,China,Super League,AWAY,DRAW,0,24.0,-7.0
+73,2026-07-31,World,Friendlies Clubs,AWAY,DRAW,0,20.0,-3.0
+74,2026-08-07,Brazil,Paulista - U20,AWAY,DRAW,0,49.0,-8.0
+75,2026-08-23,Estonia,Meistriliiga,AWAY,HOME,0,66.0,2.0
+76,2026-07-20,Lithuania,A Lyga,AWAY,HOME,0,37.0,-1.0
+77,2026-08-20,Qatar,Stars League,AWAY,HOME,0,31.0,2.0
+78,2026-08-26,Czech-Republic,Cup,AWAY,AWAY,1,20.0,4.0
+79,2026-09-05,USA,NWSL Women,AWAY,AWAY,1,36.0,1.0
+80,2026-07-24,South-Korea,WK-League,AWAY,HOME,0,80.0,-3.0
+81,2026-06-28,USA,USL League Two,AWAY,HOME,0,,-8.0
+82,2026-08-15,Japan,J2 League,AWAY,AWAY,1,21.0,5.0
+83,2026-08-02,Mexico,Liga MX,AWAY,AWAY,1,31.0,7.0
+84,2026-08-02,World,Friendlies Clubs,AWAY,HOME,0,20.0,-4.0
+85,2026-08-21,Lithuania,1 Lyga,AWAY,AWAY,1,65.0,2.0
+86,2026-08-23,Poland,III Liga - Group 2,AWAY,DRAW,0,53.0,-1.0
+87,2026-08-22,Ukraine,Cup,AWAY,AWAY,1,85.0,-8.0
+88,2026-08-14,Kuwait,Division 1,AWAY,AWAY,1,0.0,3.0
+89,2026-07-23,Brazil,Catarinense - 2,AWAY,DRAW,0,30.0,1.0
+90,2026-08-22,Ecuador,Liga Pro,AWAY,AWAY,1,41.0,-4.0
+91,2026-09-05,Brazil,Cearense - 3,AWAY,AWAY,1,55.0,-7.0
+92,2026-08-08,Sweden,Division 2 - Norra Götaland,AWAY,HOME,0,74.0,7.0
+93,2026-07-17,World,Friendlies Clubs,AWAY,HOME,0,84.0,-8.0
+94,2026-07-11,Sweden,Allsvenskan,AWAY,HOME,0,45.0,-6.0
+95,2026-08-15,Japan,J3 League,AWAY,HOME,0,36.0,-4.0
+96,2026-08-22,Argentina,Primera B Metropolitana,AWAY,DRAW,0,56.0,-6.0
+97,2026-09-06,Argentina,Liga Profesional Argentina,AWAY,HOME,0,6.0,-4.0
+98,2026-08-16,USA,USL Championship,AWAY,HOME,0,66.0,-4.0
+99,2026-08-20,World,UEFA Europa Conference League,AWAY,DRAW,0,20.0,-2.0
+100,2026-09-06,Germany,U19 Bundesliga,AWAY,AWAY,1,19.0,8.0
+101,2026-08-04,Uzbekistan,Pro League A,AWAY,AWAY,1,36.0,-5.0
+102,2026-09-06,Mexico,Primera Premier,AWAY,DRAW,0,31.0,2.0
+103,2026-07-20,Sweden,Allsvenskan,AWAY,DRAW,0,20.0,3.0
+104,2026-08-17,World,AFC Women's Champions League,AWAY,HOME,0,62.0,-8.0
+105,2026-07-25,Scotland,Football League - Lowland League,AWAY,DRAW,0,31.0,-2.0
+106,2026-08-01,Switzerland,Swiss Super League,AWAY,AWAY,1,25.0,-7.0
+107,2026-09-05,England,National League - South,AWAY,DRAW,0,25.0,-2.0
+108,2026-08-01,China,League Two,AWAY,DRAW,0,0.0,1.0
+109,2026-08-17,Greece,Cup,AWAY,AWAY,1,81.0,-4.0
+110,2026-09-06,Italy,Serie C - Girone A,AWAY,AWAY,1,25.0,5.0
+111,2026-08-08,Brazil,Brasileirão Serie C,AWAY,DRAW,0,31.0,-9.0
+112,2026-08-01,Finland,Ykkönen,AWAY,HOME,0,39.0,-7.0
+113,2026-07-31,India,Calcutta Premier Division,AWAY,HOME,0,84.0,-6.0
+114,2026-08-21,Austria,Regionalliga - North,AWAY,DRAW,0,64.0,8.0
+115,2026-07-21,China,FA Cup,AWAY,DRAW,0,39.0,-9.0
+116,2026-07-25,South Korea,K4 League,AWAY,AWAY,1,60.0,-1.0
+117,2026-08-14,Russia,Youth Championship,AWAY,AWAY,1,69.0,-8.0
+118,2026-08-07,World,Friendlies Clubs,AWAY,DRAW,0,30.0,-5.0
+119,2026-07-31,Denmark,3. Division,AWAY,DRAW,0,36.0,-5.0
+120,2026-08-22,Georgia,Erovnuli Liga 2,AWAY,HOME,0,20.0,-4.0
+121,2026-08-15,Russia,First League,AWAY,DRAW,0,12.0,4.0
+122,2026-08-14,Scotland,League Cup,AWAY,HOME,0,35.0,0.0
+123,2026-09-06,Uruguay,Segunda División,AWAY,AWAY,1,10.0,-6.0
+124,2026-07-25,World,Friendlies Clubs,AWAY,HOME,0,26.0,-9.0
+125,2026-08-15,Czech-Republic,4. liga - Divizie E,AWAY,DRAW,0,81.0,-1.0
+126,2026-08-08,Romania,Liga II,AWAY,HOME,0,36.0,5.0
+127,2026-09-14,Russia,Second League - Group 4,AWAY,AWAY,1,34.0,-4.0
+128,2026-09-06,South-Korea,K4 League,AWAY,AWAY,1,28.0,6.0
+129,2026-08-23,Denmark,1. Division,AWAY,DRAW,0,60.0,-2.0
+130,2026-08-22,England,League One,AWAY,DRAW,0,39.0,7.0
+131,2026-09-05,Germany,Frauen Bundesliga,AWAY,DRAW,0,17.0,-2.0
+132,2026-08-21,Egypt,Second League,AWAY,HOME,0,8.0,-2.0
+133,2026-09-05,Czech-Republic,4. liga - Divizie C,AWAY,DRAW,0,19.0,-6.0
+134,2026-08-12,Romania,Cupa României,AWAY,AWAY,1,26.0,-1.0
+135,2026-08-22,Germany,Regionalliga - SudWest,AWAY,AWAY,1,35.0,6.0
+136,2026-07-28,World,Friendlies Clubs,AWAY,AWAY,1,69.0,-7.0
+137,2026-08-01,Argentina,Primera B Metropolitana,AWAY,AWAY,1,80.0,-5.0
+138,2026-09-05,Czech-Republic,1. Liga U19,AWAY,AWAY,1,15.0,-3.0
+139,2026-08-01,Sweden,Ettan - Södra,AWAY,AWAY,1,34.0,-7.0
+140,2026-08-23,South-Korea,K League 2,AWAY,HOME,0,30.0,3.0
+141,2026-07-29,Israel,Toto Cup Ligat Al,AWAY,AWAY,1,31.0,-4.0
+142,2026-08-08,Czech-Republic,4. liga - Divizie C,AWAY,DRAW,0,61.0,2.0
+143,2026-08-01,Australia,South Australia State League 1,AWAY,AWAY,1,1.0,-8.0
+144,2026-08-18,England,EFL Trophy,AWAY,HOME,0,25.0,7.0
+145,2026-08-08,England,EFL Cup,AWAY,HOME,0,35.0,5.0
+146,2026-08-23,Norway,NM Cupen,AWAY,HOME,0,85.0,-7.0
+147,2026-09-06,USA,USL League One,AWAY,AWAY,1,14.0,0.0
+148,2026-08-08,Germany,Regionalliga - SudWest,AWAY,HOME,0,61.0,2.0
+149,2026-09-13,Panama,Liga Panameña de Fútbol,AWAY,HOME,0,16.0,-2.0
+150,2026-06-22,Chile,Copa Chile,AWAY,DRAW,0,,-5.0
+151,2026-08-16,Denmark,Superliga,AWAY,HOME,0,41.0,-2.0
+152,2026-08-05,Argentina,Reserve League,AWAY,DRAW,0,5.0,-4.0
+153,2026-08-22,England,Non League Premier - Southern Central,AWAY,DRAW,0,25.0,-6.0
+154,2026-08-02,Switzerland,Swiss Super League,AWAY,AWAY,1,31.0,4.0
+155,2026-08-07,Wales,FAW Championship,AWAY,HOME,0,60.0,4.0
+156,2026-08-14,Austria,2. liga,AWAY,AWAY,1,23.0,-2.0
+157,2026-08-15,Macedonia,Second League,AWAY,HOME,0,81.0,-2.0
+158,2026-08-22,Czech-Republic,3. liga - CFL A,AWAY,AWAY,1,35.0,-7.0
+159,2026-07-25,Poland,I Liga,AWAY,AWAY,1,17.0,-9.0
+160,2026-08-08,Wales,FAW Championship,AWAY,AWAY,1,84.0,-9.0
+161,2026-08-14,Germany,Oberliga - Rheinland-Pfalz / Saar,AWAY,HOME,0,35.0,6.0
+162,2026-07-12,USA,USL League Two,AWAY,AWAY,1,41.0,-3.0
+163,2026-07-21,World,Friendlies Clubs,AWAY,HOME,0,60.0,-2.0
+164,2026-08-03,Ireland,First Division,AWAY,HOME,0,35.0,2.0
+165,2026-09-06,Hungary,NB III - Northeast,AWAY,AWAY,1,55.0,-9.0
+166,2026-07-25,World,Friendlies Clubs,AWAY,DRAW,0,33.0,19.0
+167,2026-08-22,Finland,Kakkonen - Lohko B,AWAY,AWAY,1,82.0,-14.0
+168,2026-08-06,Denmark,DBU Pokalen,AWAY,AWAY,1,78.0,-17.0
+169,2026-07-02,Morocco,Botola Pro,AWAY,HOME,0,55.0,-18.0
+170,2026-08-21,Ireland,First Division,AWAY,DRAW,0,63.0,11.0
+171,2026-07-25,World,Friendlies Clubs,AWAY,DRAW,0,39.0,-10.0
+172,2026-07-25,World,Friendlies Clubs,AWAY,AWAY,1,64.0,-10.0
+173,2026-07-18,Australia,South Australia NPL,AWAY,HOME,0,100.0,-18.0
+174,2026-08-21,Saudi-Arabia,Pro League,AWAY,AWAY,1,100.0,-18.0
+175,2026-08-22,Germany,DFB Pokal,AWAY,AWAY,1,40.0,-13.0
+176,2026-08-23,Czech-Republic,4. liga - Divizie C,AWAY,AWAY,1,73.0,-16.0
+177,2026-09-05,Scotland,Championship,AWAY,AWAY,1,16.0,-10.0
+178,2026-08-08,Scotland,Scottish Premiership,AWAY,HOME,0,32.0,-17.0
+179,2026-08-02,Sweden,Division 2 - Södra Svealand,AWAY,HOME,0,34.0,-12.0
+180,2026-09-05,Macedonia,Second League,AWAY,AWAY,1,38.0,-14.0
+181,2026-08-15,Croatia,HNL,AWAY,HOME,0,64.0,-12.0
+182,2026-08-14,Norway,Toppserien,AWAY,AWAY,1,72.0,-19.0
+183,2026-08-02,Switzerland,1. Liga Promotion,AWAY,AWAY,1,93.0,-19.0
+184,2026-08-23,Argentina,Primera Nacional,AWAY,HOME,0,19.0,-19.0
+185,2026-08-25,England,Non League Premier - Northern,AWAY,DRAW,0,93.0,-18.0
+186,2026-08-02,USA,USL League One,AWAY,HOME,0,72.0,-15.0
+187,2026-08-16,Germany,U19 Bundesliga,AWAY,DRAW,0,78.0,-11.0
+188,2026-08-18,Brazil,Brasileiro U17,AWAY,AWAY,1,57.0,-19.0
+189,2026-08-14,Saudi-Arabia,Pro League,AWAY,HOME,0,73.0,-14.0
+190,2026-09-06,Germany,Oberliga - Bremen,AWAY,AWAY,1,63.0,-13.0
+191,2026-07-08,USA,USL League Two,AWAY,HOME,0,33.0,-11.0
+192,2026-09-05,Northern-Ireland,Championship,AWAY,HOME,0,67.0,-17.0
+193,2026-09-05,Czech-Republic,FNL,AWAY,AWAY,1,50.0,-13.0
+194,2026-08-01,Poland,III Liga - Group 2,AWAY,DRAW,0,19.0,12.0
+195,2026-09-05,Poland,III Liga - Group 1,AWAY,AWAY,1,55.0,-16.0
+196,2026-08-08,England,EFL Cup,AWAY,DRAW,0,24.0,-13.0
+197,2026-08-01,World,Friendlies Clubs,AWAY,AWAY,1,47.0,-14.0
+198,2026-09-06,Slovakia,3. liga - East,AWAY,HOME,0,25.0,10.0
+199,2026-08-13,Argentina,Reserve League,AWAY,DRAW,0,5.0,18.0
+200,2026-08-18,Germany,Oberliga - Bayern Nord,AWAY,AWAY,1,39.0,10.0
+201,2026-07-31,World,Friendlies Clubs,AWAY,DRAW,0,92.0,-19.0
+202,2026-07-31,North America,Caribbean Club Shield,AWAY,HOME,0,43.0,-11.0
+203,2026-09-06,Brazil,Serie B,AWAY,AWAY,1,33.0,-12.0
+204,2026-09-05,Bosnia,1st League - FBiH,AWAY,HOME,0,55.0,10.0
+205,2026-08-23,Brazil,Serie C,AWAY,HOME,0,34.0,-19.0
+206,2026-08-09,Peru,Segunda División,AWAY,DRAW,0,77.0,-18.0
+207,2026-08-22,Switzerland,1. Liga Classic - Group 3,AWAY,HOME,0,64.0,18.0
+208,2026-07-17,USA,USL League Two,AWAY,HOME,0,98.0,-11.0
+209,2026-08-15,Sweden,Division 2 - Norra Götaland,AWAY,DRAW,0,82.0,-12.0
+210,2026-08-02,South Korea,K League 2,AWAY,DRAW,0,22.0,10.0
+211,2026-08-07,Australia,South Australia State League 1,AWAY,HOME,0,0.0,14.0
+212,2026-08-15,Norway,3. Division - Girone 4,AWAY,AWAY,1,84.0,-10.0
+213,2026-08-26,Egypt,Premier League,AWAY,DRAW,0,45.0,-13.0
+214,2026-08-06,World,Friendlies Clubs,AWAY,AWAY,1,69.0,-10.0
+215,2026-08-22,India,Calcutta Premier Division,AWAY,AWAY,1,77.0,-19.0
+216,2026-07-05,Canada,Canadian Premier League,AWAY,AWAY,1,56.0,-16.0
+217,2026-07-02,Bhutan,Premier League,AWAY,HOME,0,9.0,-10.0
+218,2026-08-09,Germany,3. Liga,AWAY,HOME,0,93.0,-14.0
+219,2026-08-15,Belarus,1. Division,AWAY,HOME,0,77.0,-15.0
+220,2026-08-15,Australia,New South Wales NPL,AWAY,AWAY,1,40.0,10.0
+221,2026-08-16,South-Korea,K League 1,AWAY,AWAY,1,34.0,-19.0
+222,2026-09-06,Germany,Oberliga - Niedersachsen,AWAY,HOME,0,27.0,-17.0
+223,2026-08-02,Uruguay,Segunda División,AWAY,HOME,0,32.0,-17.0
+224,2026-09-05,China,League One,AWAY,DRAW,0,32.0,-17.0
+225,2026-08-01,Sweden,Division 2 - Norrland,AWAY,AWAY,1,72.0,-16.0
+226,2026-07-11,Scotland,Scottish League Cup,AWAY,HOME,0,35.0,-16.0
+227,2026-07-21,World,Friendlies Clubs,AWAY,HOME,0,77.0,-11.0
+228,2026-07-24,Belarus,1. Division,AWAY,HOME,0,77.0,-12.0
+229,2026-08-05,Romania,Cupa României,AWAY,DRAW,0,42.0,11.0
+230,2026-07-18,World,Friendlies Clubs,AWAY,AWAY,1,72.0,-16.0
+231,2026-08-16,Germany,Regionalliga - Nord,AWAY,AWAY,1,73.0,-11.0
+232,2026-08-09,Belarus,1. Division,AWAY,HOME,0,72.0,-12.0
+233,2026-08-01,Germany,Oberliga - Rheinland-Pfalz / Saar,AWAY,AWAY,1,64.0,12.0
+234,2026-07-08,World,International Friendlies,AWAY,HOME,0,14.0,17.0
+235,2026-09-06,Germany,Oberliga - Baden-Württemberg,AWAY,AWAY,1,34.0,10.0
+236,2026-08-07,Sweden,Division 2 - Västra Götaland,AWAY,AWAY,1,72.0,-15.0
+237,2026-07-26,China,Chinese Super League,AWAY,DRAW,0,33.0,16.0
+238,2026-07-30,Brazil,Goiano - 2,AWAY,HOME,0,25.0,-10.0
+239,2026-08-25,Slovakia,Cup,AWAY,AWAY,1,93.0,-16.0
+240,2026-08-14,Denmark,Superliga,AWAY,HOME,0,42.0,-12.0
+241,2026-08-23,England,Premier League 2 Division One,AWAY,HOME,0,73.0,-11.0
+242,2026-08-16,Germany,3. Liga,AWAY,AWAY,1,65.0,-10.0
+243,2026-07-21,World,Friendlies Clubs,AWAY,AWAY,1,19.0,-11.0
+244,2026-07-31,Germany,Regionalliga - Bayern,AWAY,HOME,0,93.0,-15.0
+245,2026-07-18,World,Friendlies Clubs,AWAY,AWAY,1,63.0,16.0
+246,2026-08-23,Azerbaijan,Premyer Liqa,AWAY,HOME,0,58.0,-16.0
+247,2026-08-01,Scotland,Football League - Highland League,AWAY,AWAY,1,73.0,-11.0
+248,2026-08-01,Belarus,1. Division,AWAY,HOME,0,69.0,-10.0
+249,2026-09-06,Sweden,Allsvenskan,AWAY,DRAW,0,41.0,-14.0
+250,2026-08-22,Czech-Republic,1. Liga Women,AWAY,HOME,0,78.0,-16.0
+251,2026-08-23,Sweden,Superettan,AWAY,DRAW,0,72.0,-13.0
+252,2026-07-25,Norway,3. Division - Girone 2,AWAY,HOME,0,63.0,15.0
+253,2026-07-22,World,Friendlies Clubs,AWAY,HOME,0,92.0,-12.0
+254,2026-07-25,South Korea,K League 2,AWAY,AWAY,1,38.0,13.0
+255,2026-08-16,Wales,FAW Championship,AWAY,AWAY,1,42.0,-16.0
+256,2026-08-11,England,Non League Premier - Isthmian,AWAY,HOME,0,19.0,11.0
+257,2026-08-07,Czech-Republic,3. liga - MSFL,AWAY,AWAY,1,48.0,-18.0
+258,2026-07-24,Austria,Cup,AWAY,AWAY,1,73.0,-16.0
+259,2026-08-08,Czech-Republic,4. liga - Divizie B,AWAY,HOME,0,48.0,-14.0
+260,2026-09-06,Spain,Tercera División RFEF - Group 9,AWAY,DRAW,0,22.0,15.0
+261,2026-08-22,Lesotho,Premier League,AWAY,HOME,0,18.0,-17.0
+262,2026-08-23,China,League Two,AWAY,HOME,0,49.0,-13.0
+263,2026-08-09,Kazakhstan,Premier League,AWAY,HOME,0,44.0,-10.0
+264,2026-08-16,Croatia,HNL,AWAY,AWAY,1,47.0,-12.0
+265,2026-08-16,Hungary,NB III - Northeast,AWAY,HOME,0,10.0,-10.0
+266,2026-08-09,Argentina,Torneo Promocional Amateur,AWAY,AWAY,1,77.0,-17.0
+267,2026-08-09,USA,NWSL Women,AWAY,AWAY,1,38.0,-13.0
+268,2026-07-04,Chile,Copa Chile,AWAY,DRAW,0,53.0,-18.0
+269,2026-07-22,South Korea,K-League 1,AWAY,DRAW,0,64.0,-19.0
+270,2026-08-08,Latvia,1. Liga,AWAY,AWAY,1,92.0,-12.0
+271,2026-07-05,Australia,New South Wales NPL,AWAY,HOME,0,69.0,18.0
+272,2026-09-06,Italy,Serie D - Girone C,AWAY,DRAW,0,14.0,12.0
+273,2026-08-15,Switzerland,1. Liga Classic - Group 2,AWAY,HOME,0,33.0,-11.0
+274,2026-07-31,Austria,Regionalliga - South,AWAY,DRAW,0,21.0,13.0
+275,2026-08-23,Ukraine,Cup,AWAY,AWAY,1,93.0,-16.0
+276,2026-07-31,Latvia,1. Liga,AWAY,AWAY,1,39.0,-10.0
+277,2026-07-31,Germany,Regionalliga - Nordost,AWAY,HOME,0,40.0,-10.0
+278,2026-08-01,Denmark,Kvindeliga,AWAY,HOME,0,44.0,11.0
+279,2026-07-28,World,Friendlies Clubs,AWAY,HOME,0,42.0,-17.0
+280,2026-07-04,USA,USL League Two,AWAY,DRAW,0,32.0,-12.0
+281,2026-07-31,Uzbekistan,Pro League A,AWAY,AWAY,1,73.0,-17.0
+282,2026-08-09,Denmark,Danish Superliga,AWAY,HOME,0,56.0,-14.0
+283,2026-08-22,Australia,New South Wales NPL 2,AWAY,AWAY,1,92.0,-18.0
+284,2026-08-03,Bulgaria,First Professional League,AWAY,HOME,0,78.0,-14.0
+285,2026-08-04,Germany,Oberliga - Schleswig-Holstein,AWAY,HOME,0,78.0,-17.0
+286,2026-07-16,Europe,Conference League,AWAY,AWAY,1,69.0,-10.0
+287,2026-07-09,Zimbabwe,Premier Soccer League,AWAY,AWAY,1,77.0,-16.0
+288,2026-08-16,South-Korea,K League 2,AWAY,DRAW,0,64.0,10.0
+289,2026-08-12,Estonia,Cup,AWAY,AWAY,1,92.0,-19.0
+290,2026-09-06,Moldova,Super Liga,AWAY,AWAY,1,66.0,-14.0
+291,2026-09-06,Canada,Northern Super League,AWAY,DRAW,0,33.0,11.0
+292,2026-08-02,Poland,I Liga,AWAY,DRAW,0,42.0,-20.0
+293,2026-07-31,Poland,III Liga - Group 1,AWAY,AWAY,1,73.0,-20.0
+294,2026-08-09,Netherlands,Eredivisie,AWAY,AWAY,1,43.0,-26.0
+295,2026-06-29,USA,MLS Next Pro,AWAY,DRAW,0,,-20.0
+296,2026-07-26,Brazil,Paranaense - 3,AWAY,AWAY,1,78.0,-20.0
+297,2026-08-01,Lithuania,1 Lyga,AWAY,HOME,0,19.0,-20.0
+298,2026-07-10,Australia,Victoria NPL,AWAY,AWAY,1,77.0,-23.0
+299,2026-08-01,Australia,Tasmania NPL,AWAY,HOME,0,42.0,-25.0
+300,2026-08-04,Denmark,DBU Pokalen,AWAY,AWAY,1,78.0,-26.0
+301,2026-07-31,Austria,Regionalliga - West,AWAY,HOME,0,78.0,-21.0
+302,2026-07-26,Brazil,Mineiro - 2,AWAY,DRAW,0,57.0,-20.0
+303,2026-08-08,Norway,2. Division - Group 1,AWAY,AWAY,1,57.0,-27.0
+304,2026-07-23,Estonia,Cup,AWAY,AWAY,1,98.0,-29.0
+305,2026-08-17,World,AFC Women's Champions League,AWAY,HOME,0,70.0,-27.0
+306,2026-08-12,Czech-Republic,Cup,AWAY,HOME,0,92.0,-20.0
+307,2026-09-13,South-Africa,Super League Women,AWAY,HOME,0,72.0,-23.0
+308,2026-08-04,Brazil,Brasileiro U17,AWAY,AWAY,1,72.0,-26.0
+309,2026-07-25,World,Friendlies Clubs,AWAY,AWAY,1,72.0,-25.0
+310,2026-09-05,Belgium,Second Amateur Division - VFV A,AWAY,AWAY,1,67.0,-20.0
+311,2026-07-25,Uzbekistan,Pro League A,AWAY,HOME,0,33.0,-29.0
+312,2026-08-21,Qatar,Stars League,AWAY,DRAW,0,19.0,20.0
+313,2026-09-06,Germany,Frauen Bundesliga,AWAY,DRAW,0,67.0,-26.0
+314,2026-08-05,Hungary,NB III - Northwest,AWAY,HOME,0,78.0,-22.0
+315,2026-08-14,Germany,Oberliga - Bayern Nord,AWAY,AWAY,1,77.0,-27.0
+316,2026-08-05,Poland,Cup,AWAY,HOME,0,33.0,-24.0
+317,2026-08-19,Slovakia,Cup,AWAY,AWAY,1,73.0,-29.0
+318,2026-07-25,Belarus,Coppa,AWAY,DRAW,0,58.0,20.0
+319,2026-09-05,Sweden,Division 2 - Norra Svealand,AWAY,AWAY,1,41.0,-20.0
+320,2026-08-02,Russia,Second League - Group 4,AWAY,DRAW,0,87.0,-23.0
+321,2026-07-24,Macedonia,First League,AWAY,HOME,0,78.0,-23.0
+322,2026-08-16,Czech-Republic,FNL,AWAY,AWAY,1,61.0,-29.0
+323,2026-08-26,Czech-Republic,Cup,AWAY,AWAY,1,72.0,-23.0
+324,2026-08-01,Poland,III Liga - Group 2,AWAY,DRAW,0,93.0,-22.0
+325,2026-09-05,France,Feminine Division 1,AWAY,AWAY,1,57.0,-23.0
+326,2026-08-23,Sweden,Division 2 - Södra Svealand,AWAY,AWAY,1,87.0,-21.0
+327,2026-07-26,Belarus,1. Division,AWAY,AWAY,1,72.0,-25.0
+328,2026-09-05,Romania,Liga 1 Feminin,AWAY,AWAY,1,18.0,-24.0
+329,2026-07-04,USA,MLS Next Pro,AWAY,HOME,0,77.0,-27.0
+330,2026-09-06,Chile,Primera División,AWAY,DRAW,0,76.0,-27.0
+331,2026-08-15,Sweden,Elitettan,AWAY,AWAY,1,23.0,-25.0
+332,2026-08-01,World,Friendlies Clubs,AWAY,AWAY,1,92.0,-23.0
+333,2026-08-23,Hong-Kong,Premier League,AWAY,HOME,0,58.0,-27.0
+334,2026-08-08,Australia,New South Wales NPL,AWAY,DRAW,0,100.0,-29.0
+335,2026-09-06,Germany,Oberliga - Mittelrhein,AWAY,DRAW,0,67.0,-22.0
+336,2026-08-16,Czech-Republic,3. liga - MSFL,AWAY,DRAW,0,43.0,-27.0
+337,2026-07-12,Australia,Queensland NPL,AWAY,HOME,0,3.0,21.0
+338,2026-07-17,World,Friendlies Clubs,AWAY,HOME,0,77.0,-22.0
+339,2026-08-07,South Korea,K League 2,AWAY,HOME,0,98.0,-20.0
+340,2026-09-06,Hong-Kong,Premier League,AWAY,AWAY,1,36.0,-25.0
+341,2026-08-16,Hungary,NB III - Northwest,AWAY,AWAY,1,78.0,-21.0
+342,2026-08-23,Portugal,Campeonato de Portugal Prio - Group D,AWAY,HOME,0,58.0,-28.0
+343,2026-08-08,Croatia,HNL,AWAY,AWAY,1,47.0,-22.0
+344,2026-08-15,Germany,Regionalliga - SudWest,AWAY,DRAW,0,73.0,-22.0
+345,2026-08-03,Honduras,Liga Nacional,AWAY,AWAY,1,78.0,-27.0
+346,2026-09-05,Spain,Segunda División,AWAY,DRAW,0,37.0,-20.0
+347,2026-07-09,Europe,Europa League,AWAY,AWAY,1,73.0,-27.0
+348,2026-08-22,Finland,Kakkonen - Lohko B,AWAY,AWAY,1,100.0,-24.0
+349,2026-07-28,World,Friendlies Clubs,AWAY,HOME,0,72.0,-21.0
+350,2026-08-16,Switzerland,Schweizer Cup,AWAY,HOME,0,93.0,-20.0
+351,2026-08-22,USA,USL Championship,AWAY,DRAW,0,78.0,-23.0
+352,2026-08-07,Austria,Regionalliga - Ost,AWAY,HOME,0,93.0,-28.0
+353,2026-08-16,Germany,Oberliga - Niedersachsen,AWAY,HOME,0,50.0,-29.0
+354,2026-08-18,Mexico,Liga MX Femenil,AWAY,AWAY,1,93.0,-28.0
+355,2026-08-02,Germany,DFB Junioren Pokal,AWAY,AWAY,1,77.0,-54.0
+356,2026-08-04,Denmark,DBU Pokalen,AWAY,AWAY,1,58.0,-32.0
+357,2026-08-01,Russia,Second League - Group 3,AWAY,AWAY,1,87.0,-46.0
+358,2026-09-05,England,FA Cup,AWAY,AWAY,1,87.0,-36.0
+359,2026-08-22,Australia,Western Australia NPL,AWAY,AWAY,1,72.0,-32.0
+360,2026-08-23,Kosovo,Superliga,AWAY,AWAY,1,78.0,-30.0
+361,2026-08-01,Scotland,Football League - Lowland League,AWAY,AWAY,1,58.0,-40.0
+362,2026-06-30,Tanzania,Ligi kuu Bara,AWAY,DRAW,0,,-41.0
+363,2026-08-07,Armenia,Premier League,AWAY,AWAY,1,73.0,-38.0
+364,2026-06-28,Finland,Ykkönen,AWAY,AWAY,1,,-50.0
+365,2026-07-26,Australia,Npl Nsw U20,AWAY,AWAY,1,77.0,-32.0
+366,2026-07-26,El-Salvador,Primera Division,AWAY,DRAW,0,78.0,-34.0
+367,2026-06-27,USA,USL League Two,AWAY,AWAY,1,,-44.0
+368,2026-09-05,Czech-Republic,4. liga - Divizie D,AWAY,AWAY,1,87.0,-34.0
+369,2026-07-25,China,League One,AWAY,HOME,0,77.0,-40.0
+370,2026-08-14,Switzerland,Schweizer Cup,AWAY,AWAY,1,78.0,-54.0
+371,2026-07-25,Asia,ASEAN Championship,AWAY,AWAY,1,93.0,-48.0
+372,2026-08-15,Australia,Queensland Premier League,AWAY,HOME,0,57.0,-35.0
+373,2026-07-14,Europe,Champions League,AWAY,AWAY,1,77.0,-40.0
+374,2026-08-22,Finland,Kakkonen - Lohko C,AWAY,HOME,0,32.0,-36.0
+375,2026-07-26,Brazil,Brasiliense U20,AWAY,AWAY,1,100.0,-37.0
+376,2026-08-16,Switzerland,Schweizer Cup,AWAY,AWAY,1,70.0,-34.0
+377,2026-07-22,Estonia,Cup,AWAY,AWAY,1,77.0,-39.0
+378,2026-08-07,Argentina,Reserve League,AWAY,DRAW,0,77.0,-38.0
+379,2026-08-02,Germany,2. Frauen Bundesliga,AWAY,AWAY,1,78.0,-41.0
+380,2026-07-31,Brazil,Paulista - U20,AWAY,AWAY,1,42.0,-35.0
+381,2026-08-12,Germany,Oberliga - Bremen,AWAY,HOME,0,78.0,-46.0
+382,2026-08-01,Asia,ASEAN Championship,AWAY,AWAY,1,100.0,-43.0
+383,2026-08-02,Germany,DFB Junioren Pokal,AWAY,AWAY,1,92.0,-55.0
+384,2026-09-05,England,FA Cup,AWAY,AWAY,1,87.0,-38.0
+385,2026-08-21,Ireland,First Division,AWAY,AWAY,1,27.0,-33.0
+386,2026-08-08,Australia,Tasmania Northern Championship,AWAY,AWAY,1,100.0,-38.0
+387,2026-08-02,Czech-Republic,3. liga - MSFL,AWAY,AWAY,1,73.0,-38.0
+388,2026-08-22,Turkey,U19 League,AWAY,AWAY,1,78.0,-39.0
+389,2026-08-06,Kazakhstan,1. Division,AWAY,HOME,0,72.0,-35.0
+390,2026-08-18,England,EFL Trophy,AWAY,AWAY,1,48.0,-36.0
+391,2026-08-25,Portugal,Liga Revelação U23,AWAY,AWAY,1,78.0,-49.0
+392,2026-09-06,Mexico,Liga Premier Serie A,AWAY,AWAY,1,48.0,-46.0
+393,2026-06-27,World,FIFA World Cup 2026,AWAY,AWAY,1,,
+394,2026-06-27,World,FIFA World Cup 2026,AWAY,DRAW,0,,
+395,2026-08-14,Argentina,Primera Nacional,DRAW,DRAW,1,35.0,0.0
+396,2026-09-06,Brazil,Piauiense - 2,DRAW,HOME,0,5.0,0.0
+397,2026-08-01,Latvia,Virsliga,DRAW,HOME,0,30.0,2.0
+398,2026-08-16,Honduras,Liga Nacional,DRAW,DRAW,1,46.0,0.0
+399,2026-07-25,Sweden,Elitettan,DRAW,DRAW,1,23.0,8.0
+400,2026-08-12,Russia,Cup,DRAW,DRAW,1,53.0,6.0
+401,2026-09-06,Italy,Serie C - Girone B,DRAW,HOME,0,25.0,2.0
+402,2026-08-03,Uruguay,Primera División - Apertura,DRAW,HOME,0,20.0,3.0
+403,2026-08-12,Argentina,Torneo Federal A,DRAW,HOME,0,20.0,1.0
+404,2026-08-22,Scotland,Football League - Lowland League,DRAW,HOME,0,48.0,-8.0
+405,2026-08-25,Uzbekistan,Super League,DRAW,HOME,0,34.0,6.0
+406,2026-08-15,Argentina,Liga Profesional Argentina,DRAW,HOME,0,20.0,0.0
+407,2026-08-23,Lesotho,Premier League,DRAW,AWAY,0,50.0,-7.0
+408,2026-08-01,China,League Two,DRAW,DRAW,1,20.0,-5.0
+409,2026-08-23,Argentina,Torneo Federal A,DRAW,DRAW,1,45.0,-2.0
+410,2026-07-25,Malawi,Super League,DRAW,HOME,0,59.0,-8.0
+411,2026-08-23,Brazil,Serie C,DRAW,HOME,0,30.0,1.0
+412,2026-08-02,Peru,Primera División,DRAW,HOME,0,34.0,4.0
+413,2026-07-11,Finland,Ykkönen,DRAW,AWAY,0,45.0,-5.0
+414,2026-08-08,Wales,FAW Championship,DRAW,AWAY,0,30.0,-2.0
+415,2026-08-06,Colombia,Primera B,DRAW,DRAW,1,24.0,13.0
+416,2026-07-10,Argentina,Primera B Metropolitana,DRAW,DRAW,1,9.0,-18.0
+417,2026-07-26,China,League Two,DRAW,HOME,0,9.0,14.0
+418,2026-08-08,Germany,Oberliga - Schleswig-Holstein,DRAW,HOME,0,10.0,16.0
+419,2026-08-21,Brazil,Paulista - U20,DRAW,AWAY,0,59.0,-11.0
+420,2026-08-22,Argentina,Primera B Metropolitana,DRAW,AWAY,0,34.0,12.0
+421,2026-08-15,Germany,Oberliga - Niedersachsen,DRAW,HOME,0,25.0,-16.0
+422,2026-08-17,Argentina,Primera C,DRAW,DRAW,1,49.0,13.0
+423,2026-07-16,Kazakhstan,1. Division,DRAW,AWAY,0,39.0,-19.0
+424,2026-08-23,Argentina,Torneo Federal A,DRAW,HOME,0,19.0,19.0
+425,2026-07-25,South-Korea,K3 League,DRAW,DRAW,1,24.0,-18.0
+426,2026-07-12,Ecuador,Liga Pro,DRAW,AWAY,0,19.0,-19.0
+427,2026-08-01,Brazil,Mineiro U20,DRAW,HOME,0,9.0,10.0
+428,2026-08-01,Mexico,Liga MX,DRAW,DRAW,1,9.0,-14.0
+429,2026-08-21,Kazakhstan,1. Division,DRAW,DRAW,1,49.0,-16.0
+430,2026-06-28,Argentina,Primera B Metropolitana,DRAW,DRAW,1,,11.0
+431,2026-08-08,Scotland,Football League - Lowland League,DRAW,AWAY,0,38.0,-14.0
+432,2026-08-22,Ukraine,Cup,DRAW,AWAY,0,25.0,-19.0
+433,2026-08-08,Russia,Second League - Group 3,DRAW,HOME,0,19.0,15.0
+434,2026-07-31,Peru,Segunda División,DRAW,DRAW,1,9.0,-11.0
+435,2026-07-26,Argentina,Torneo Federal A,DRAW,HOME,0,39.0,-22.0
+436,2026-08-21,Peru,Segunda División,DRAW,HOME,0,9.0,24.0
+437,2026-08-22,Turkey,U19 League,DRAW,DRAW,1,10.0,-25.0
+438,2026-08-12,India,Calcutta Premier Division,DRAW,HOME,0,49.0,29.0
+439,2026-08-09,Israel,Toto Cup Ligat Al,DRAW,HOME,0,25.0,21.0
+440,2026-08-08,Ukraine,Druha Liga,DRAW,AWAY,0,50.0,-20.0
+441,2026-07-15,World,International Friendlies,DRAW,HOME,0,9.0,-23.0
+442,2026-07-29,World,Friendlies Clubs,DRAW,HOME,0,49.0,20.0
+443,2026-08-17,Costa-Rica,Liga de Ascenso,DRAW,AWAY,0,39.0,-23.0
+444,2026-07-11,Russia,First League,DRAW,HOME,0,25.0,20.0
+445,2026-06-27,Brazil,Brasileirão Serie C,DRAW,HOME,0,,-20.0
+446,2026-08-08,Sweden,Elitettan,DRAW,AWAY,0,33.0,-22.0
+447,2026-08-02,Argentina,Torneo Federal A,DRAW,DRAW,1,49.0,26.0
+448,2026-07-26,Latvia,Virsliga,DRAW,AWAY,0,9.0,20.0
+449,2026-07-25,Sweden,Elitettan,DRAW,DRAW,1,23.0,-26.0
+450,2026-08-02,South Korea,K-League 1,DRAW,HOME,0,34.0,22.0
+451,2026-08-09,Venezuela,Primera División,DRAW,AWAY,0,25.0,-21.0
+452,2026-09-06,Spain,Tercera División RFEF - Group 16,DRAW,DRAW,1,9.0,-22.0
+453,2026-08-23,Lesotho,Premier League,DRAW,AWAY,0,35.0,-27.0
+454,2026-08-24,Argentina,Torneo Promocional Amateur,DRAW,HOME,0,49.0,22.0
+455,2026-08-15,Portugal,Júniores U19,DRAW,HOME,0,50.0,33.0
+456,2026-07-26,Argentina,Primera Nacional,DRAW,DRAW,1,49.0,-30.0
+457,2026-08-14,Iran,Persian Gulf Pro League,DRAW,AWAY,0,9.0,36.0
+458,2026-08-15,Czech-Republic,1. Liga Women,DRAW,HOME,0,10.0,31.0
+459,2026-07-25,China,League One,DRAW,DRAW,1,49.0,-31.0
+460,2026-07-08,USA,USL League Two,DRAW,AWAY,0,55.0,-30.0
+461,2026-08-12,Paraguay,Copa Paraguay,DRAW,DRAW,1,25.0,-35.0
+462,2026-06-28,Chile,Copa Chile,DRAW,AWAY,0,,-42.0
+463,2026-08-08,India,Calcutta Premier Division,DRAW,DRAW,1,49.0,-31.0
+464,2026-08-08,Russia,Second League - Group 1,DRAW,DRAW,1,49.0,33.0
+465,2026-08-11,England,Non League Premier - Northern,DRAW,HOME,0,10.0,-33.0
+466,2026-06-27,World,FIFA World Cup 2026,DRAW,AWAY,0,,
+467,2026-08-23,Argentina,Torneo Federal A,HOME,HOME,1,64.0,6.0
+468,2026-08-15,Denmark,1. Division,HOME,AWAY,0,60.0,3.0
+469,2026-09-05,Spain,Tercera División RFEF - Group 4,HOME,DRAW,0,19.0,0.0
+470,2026-09-05,Indonesia,Liga 1,HOME,AWAY,0,15.0,4.0
+471,2026-08-23,Switzerland,1. Liga Classic - Group 3,HOME,HOME,1,81.0,5.0
+472,2026-07-04,USA,USL League Two,HOME,HOME,1,69.0,6.0
+473,2026-07-12,Russia,First League,HOME,HOME,1,61.0,-3.0
+474,2026-08-22,Scotland,Football League - Lowland League,HOME,DRAW,0,55.0,-7.0
+475,2026-08-05,Hungary,NB III - Northwest,HOME,AWAY,0,35.0,-8.0
+476,2026-07-24,Brazil,Paulista - U20,HOME,HOME,1,75.0,0.0
+477,2026-08-17,Norway,3. Division - Girone 4,HOME,AWAY,0,64.0,8.0
+478,2026-08-22,Tunisia,Ligue 1,HOME,DRAW,0,77.0,6.0
+479,2026-08-11,England,National League Cup,HOME,AWAY,0,17.0,9.0
+480,2026-08-08,Poland,III Liga - Group 3,HOME,HOME,1,66.0,2.0
+481,2026-07-02,World,FIFA World Cup 2026,HOME,HOME,1,20.0,0.0
+482,2026-09-06,Ghana,Premier League,HOME,DRAW,0,45.0,3.0
+483,2026-08-09,Germany,2. Frauen Bundesliga,HOME,AWAY,0,20.0,8.0
+484,2026-08-09,Ecuador,Liga Pro,HOME,AWAY,0,66.0,-1.0
+485,2026-08-16,Brazil,Serie B,HOME,DRAW,0,20.0,-1.0
+486,2026-08-09,Argentina,Liga Profesional,HOME,HOME,1,64.0,7.0
+487,2026-06-30,USA,USL League Two,HOME,AWAY,0,,8.0
+488,2026-08-21,Czech-Republic,FNL,HOME,DRAW,0,70.0,8.0
+489,2026-09-06,Malta,Premier League,HOME,AWAY,0,30.0,3.0
+490,2026-07-29,Kuwait,Division 1,HOME,DRAW,0,28.0,5.0
+491,2026-07-25,Brazil,Brasileirão Serie C,HOME,DRAW,0,26.0,6.0
+492,2026-08-22,Australia,New South Wales NPL 2,HOME,HOME,1,35.0,-2.0
+493,2026-08-21,Egypt,Premier League,HOME,HOME,1,35.0,9.0
+494,2026-07-05,Zimbabwe,Premier Soccer League,HOME,HOME,1,57.0,-5.0
+495,2026-07-24,Sweden,Allsvenskan,HOME,HOME,1,90.0,8.0
+496,2026-09-06,Malta,Premier League,HOME,HOME,1,13.0,-3.0
+497,2026-09-06,Netherlands,Eredivisie Women,HOME,HOME,1,29.0,-6.0
+498,2026-09-06,USA,USL League One,HOME,AWAY,0,39.0,7.0
+499,2026-07-18,World,Friendlies Clubs,HOME,DRAW,0,24.0,-6.0
+500,2026-08-23,South-Korea,K4 League,HOME,HOME,1,20.0,4.0
+501,2026-08-19,Estonia,Esiliiga B,HOME,HOME,1,90.0,8.0
+502,2026-08-10,Colombia,Primera A,HOME,HOME,1,18.0,-3.0
+503,2026-08-08,Mexico,Liga de Expansión MX,HOME,AWAY,0,70.0,6.0
+504,2026-09-05,England,National League - South,HOME,HOME,1,40.0,9.0
+505,2026-07-24,Austria,Cup,HOME,DRAW,0,31.0,-3.0
+506,2026-09-05,Slovakia,Super Liga,HOME,HOME,1,21.0,3.0
+507,2026-08-22,Japan,J2 League,HOME,AWAY,0,31.0,-1.0
+508,2026-08-05,Hungary,NB III - Southwest,HOME,HOME,1,66.0,-1.0
+509,2026-09-13,Costa-Rica,Liga de Ascenso,HOME,DRAW,0,60.0,-2.0
+510,2026-08-06,Colombia,Primera B,HOME,AWAY,0,56.0,6.0
+511,2026-09-12,USA,USL League One,HOME,DRAW,0,30.0,8.0
+512,2026-08-07,Czech-Republic,FNL,HOME,DRAW,0,74.0,-1.0
+513,2026-08-25,England,Professional Development League,HOME,AWAY,0,61.0,0.0
+514,2026-08-23,Angola,Girabola,HOME,AWAY,0,65.0,8.0
+515,2026-08-16,Germany,DFB Pokal - Women,HOME,HOME,1,17.0,8.0
+516,2026-07-23,Brazil,Brasileirão Serie B,HOME,HOME,1,26.0,9.0
+517,2026-08-08,England,EFL Cup,HOME,DRAW,0,84.0,7.0
+518,2026-07-17,World,Friendlies Clubs,HOME,HOME,1,35.0,-4.0
+519,2026-08-22,England,League One,HOME,DRAW,0,20.0,-2.0
+520,2026-08-05,World,CONCACAF Central American Cup,HOME,AWAY,0,74.0,-2.0
+521,2026-08-22,Portugal,Primeira Liga,HOME,DRAW,0,24.0,-7.0
+522,2026-08-25,World,UEFA Champions League,HOME,HOME,1,66.0,-1.0
+523,2026-07-24,South America,Copa Sudamericana,HOME,HOME,1,26.0,8.0
+524,2026-09-05,World,CAF Confederation Cup,HOME,AWAY,0,19.0,0.0
+525,2026-09-06,Argentina,Liga Profesional Argentina,HOME,HOME,1,6.0,2.0
+526,2026-08-25,Colombia,Primera B,HOME,AWAY,0,60.0,-2.0
+527,2026-08-25,Argentina,Primera B Metropolitana,HOME,HOME,1,47.0,1.0
+528,2026-07-16,Ecuador,Liga Pro Serie B,HOME,HOME,1,65.0,4.0
+529,2026-08-12,Russia,Cup,HOME,DRAW,0,74.0,3.0
+530,2026-09-06,Spain,Segunda División RFEF - Group 3,HOME,HOME,1,9.0,5.0
+531,2026-08-23,USA,USL League One,HOME,DRAW,0,20.0,-5.0
+532,2026-08-16,Canada,Northern Super League,HOME,HOME,1,86.0,1.0
+533,2026-09-07,El-Salvador,Primera Division,HOME,HOME,1,34.0,1.0
+534,2026-09-06,Spain,Tercera División RFEF - Group 9,HOME,HOME,1,32.0,4.0
+535,2026-09-11,Mexico,Liga Premier Serie A,HOME,HOME,1,34.0,-2.0
+536,2026-08-15,Iceland,2. Deild,HOME,HOME,1,24.0,8.0
+537,2026-08-16,Romania,Liga I,HOME,HOME,1,34.0,-8.0
+538,2026-09-09,Uruguay,Copa Uruguay,HOME,DRAW,0,22.0,5.0
+539,2026-09-13,Mexico,Primera Premier,HOME,HOME,1,31.0,4.0
+540,2026-08-08,England,EFL Cup,HOME,HOME,1,12.0,4.0
+541,2026-08-21,Egypt,Second League,HOME,AWAY,0,61.0,-2.0
+542,2026-08-23,Argentina,Primera Nacional,HOME,DRAW,0,41.0,7.0
+543,2026-06-26,China,Chinese Super League,HOME,HOME,1,,2.0
+544,2026-07-26,USA,USL Championship,HOME,AWAY,0,12.0,-5.0
+545,2026-08-02,Argentina,Torneo Federal A,HOME,HOME,1,0.0,-1.0
+546,2026-08-15,Czech-Republic,4. liga - Divizie D,HOME,AWAY,0,81.0,0.0
+547,2026-08-08,Poland,III Liga - Group 1,HOME,HOME,1,19.0,-4.0
+548,2026-08-22,Lithuania,1 Lyga,HOME,DRAW,0,49.0,-7.0
+549,2026-09-06,Germany,Oberliga - Mittelrhein,HOME,AWAY,0,55.0,-1.0
+550,2026-08-06,Europe,Europa League,HOME,DRAW,0,70.0,-3.0
+551,2026-08-16,Norway,2. Division - Group 2,HOME,HOME,1,79.0,-1.0
+552,2026-08-16,Germany,2. Bundesliga,HOME,AWAY,0,60.0,2.0
+553,2026-08-09,Uruguay,Primera División,HOME,AWAY,0,64.0,6.0
+554,2026-08-20,World,CONMEBOL Sudamericana,HOME,HOME,1,60.0,-3.0
+555,2026-08-01,Brazil,Copa Paulista,HOME,AWAY,0,34.0,0.0
+556,2026-08-01,Scotland,Scottish Championship,HOME,HOME,1,36.0,-2.0
+557,2026-08-16,World,ASEAN Championship,HOME,AWAY,0,44.0,-1.0
+558,2026-09-05,Macedonia,Second League,HOME,HOME,1,55.0,9.0
+559,2026-09-05,Brazil,Carioca - 2,HOME,HOME,1,5.0,7.0
+560,2026-08-09,Mexico,Liga de Expansión MX,HOME,HOME,1,66.0,5.0
+561,2026-08-15,Finland,Ykkönen,HOME,AWAY,0,80.0,5.0
+562,2026-07-11,South Korea,K League 2,HOME,AWAY,0,83.0,6.0
+563,2026-07-26,Brazil,Serie D,HOME,HOME,1,64.0,7.0
+564,2026-07-03,Norway,1. divisjon,HOME,AWAY,0,86.0,-3.0
+565,2026-09-06,Poland,Central Youth League,HOME,HOME,1,26.0,-1.0
+566,2026-07-28,World,Africa Cup of Nations - Women,HOME,HOME,1,53.0,6.0
+567,2026-07-31,Norway,Eliteserien,HOME,AWAY,0,45.0,-6.0
+568,2026-08-16,Czech-Republic,4. liga - Divizie D,HOME,HOME,1,61.0,4.0
+569,2026-09-12,Costa-Rica,Primera División,HOME,AWAY,0,2.0,4.0
+570,2026-08-02,Russia,Second League - Group 4,HOME,AWAY,0,79.0,6.0
+571,2026-08-11,England,Non League Premier - Isthmian,HOME,HOME,1,61.0,4.0
+572,2026-08-02,USA,MLS,HOME,HOME,1,86.0,4.0
+573,2026-09-13,USA,USL League One,HOME,AWAY,0,64.0,7.0
+574,2026-06-25,USA,USL League Two,HOME,DRAW,0,,3.0
+575,2026-07-19,South Korea,K League 2,HOME,DRAW,0,49.0,6.0
+576,2026-08-06,Europe,Europa League,HOME,DRAW,0,49.0,7.0
+577,2026-09-05,Italy,Campionato Primavera - 1,HOME,DRAW,0,15.0,-5.0
+578,2026-07-25,Scotland,Scottish League Cup,HOME,HOME,1,1.0,8.0
+579,2026-07-26,Kazakhstan,Premier League,HOME,HOME,1,7.0,2.0
+580,2026-09-05,Lesotho,Premier League,HOME,AWAY,0,19.0,-9.0
+581,2026-08-15,Italy,Coppa Italia,HOME,HOME,1,78.0,6.0
+582,2026-08-09,World,Friendlies Clubs,HOME,DRAW,0,49.0,8.0
+583,2026-09-05,Sweden,Superettan,HOME,AWAY,0,54.0,5.0
+584,2026-09-05,Austria,Cup,HOME,AWAY,0,59.0,-6.0
+585,2026-09-05,Sweden,Allsvenskan,HOME,DRAW,0,18.0,6.0
+586,2026-09-05,Brazil,Goiano - 2,HOME,DRAW,0,56.0,-7.0
+587,2026-08-16,Kosovo,Superliga,HOME,HOME,1,62.0,6.0
+588,2026-08-15,Georgia,Erovnuli Liga 2,HOME,DRAW,0,26.0,7.0
+589,2026-09-05,Czech-Republic,4. liga - Divizie C,HOME,HOME,1,59.0,8.0
+590,2026-08-01,Russia,Premier League,HOME,HOME,1,61.0,4.0
+591,2026-09-10,Brazil,Copa do Brasil U20,HOME,DRAW,0,0.0,5.0
+592,2026-08-10,Norway,3. Division - Girone 6,HOME,HOME,1,69.0,6.0
+593,2026-07-26,Russia,Second League A - Division A Gold,HOME,AWAY,0,18.0,1.0
+594,2026-08-20,World,UEFA Europa Conference League,HOME,DRAW,0,20.0,1.0
+595,2026-08-23,Turkey,U19 League,HOME,AWAY,0,21.0,-4.0
+596,2026-09-05,Japan,J3 League,HOME,HOME,1,51.0,-1.0
+597,2026-08-05,Peru,Liga Women,HOME,DRAW,0,43.0,1.0
+598,2026-08-07,World,CONCACAF Central American Cup,HOME,AWAY,0,26.0,1.0
+599,2026-08-08,Slovakia,3. liga - East,HOME,HOME,1,21.0,4.0
+600,2026-08-01,Paraguay,Division Intermedia,HOME,DRAW,0,84.0,9.0
+601,2026-07-21,World,Friendlies Clubs,HOME,DRAW,0,64.0,7.0
+602,2026-08-11,Sweden,Svenska Cupen - Women,HOME,AWAY,0,4.0,-8.0
+603,2026-08-14,Finland,Ykkösliiga,HOME,AWAY,0,26.0,8.0
+604,2026-09-05,Iceland,2. Deild,HOME,AWAY,0,30.0,3.0
+605,2026-09-06,Australia,Victoria NPL,HOME,HOME,1,33.0,8.0
+606,2026-07-29,China,League Two,HOME,AWAY,0,0.0,4.0
+607,2026-08-15,Japan,J2 League,HOME,DRAW,0,17.0,9.0
+608,2026-08-25,Ecuador,Liga Pro,HOME,HOME,1,32.0,-8.0
+609,2026-09-05,Germany,Regionalliga - West,HOME,AWAY,0,55.0,0.0
+610,2026-08-15,Australia,Tasmania Southern Championship,HOME,HOME,1,84.0,9.0
+611,2026-08-10,Ukraine,Premier League,HOME,HOME,1,35.0,5.0
+612,2026-09-06,Vietnam,V.League 1,HOME,HOME,1,24.0,1.0
+613,2026-09-06,Spain,Tercera División RFEF - Group 14,HOME,AWAY,0,32.0,6.0
+614,2026-08-02,USA,USL League Two,HOME,AWAY,0,66.0,4.0
+615,2026-08-23,Bolivia,Primera División,HOME,AWAY,0,36.0,-5.0
+616,2026-07-25,World,Friendlies Clubs,HOME,DRAW,0,24.0,-8.0
+617,2026-09-05,Spain,Primera División RFEF - Group 2,HOME,HOME,1,21.0,8.0
+618,2026-07-24,USA,USL League Two,HOME,AWAY,0,66.0,5.0
+619,2026-08-08,Asia,ASEAN Championship,HOME,HOME,1,44.0,0.0
+620,2026-07-11,USA,USL League Two,HOME,DRAW,0,22.0,7.0
+621,2026-09-05,Switzerland,Super League,HOME,DRAW,0,28.0,5.0
+622,2026-07-23,USA,MLS,HOME,DRAW,0,35.0,5.0
+623,2026-09-05,Switzerland,1. Liga Promotion,HOME,AWAY,0,19.0,9.0
+624,2026-07-24,USA,USL League Two,HOME,HOME,1,66.0,4.0
+625,2026-08-23,Russia,Premier League,HOME,HOME,1,60.0,-2.0
+626,2026-08-15,Norway,Toppserien,HOME,AWAY,0,60.0,-2.0
+627,2026-09-05,Cyprus,1. Division,HOME,HOME,1,59.0,8.0
+628,2026-08-13,World,CONCACAF Central American Cup,HOME,HOME,1,53.0,8.0
+629,2026-08-09,Australia,Tasmania Southern Championship,HOME,DRAW,0,45.0,1.0
+630,2026-09-06,Belarus,Premier League,HOME,DRAW,0,30.0,-7.0
+631,2026-09-05,Indonesia,Liga 1,HOME,DRAW,0,45.0,7.0
+632,2026-09-06,Germany,Regionalliga - Nord,HOME,DRAW,0,59.0,6.0
+633,2026-08-15,Australia,South Australia NPL,HOME,HOME,1,39.0,9.0
+634,2026-08-18,Mexico,Liga MX,HOME,AWAY,0,24.0,8.0
+635,2026-09-05,England,National League - North,HOME,AWAY,0,21.0,1.0
+636,2026-06-28,Sweden,Superettan,HOME,HOME,1,,4.0
+637,2026-07-25,World,Friendlies Clubs,HOME,HOME,1,24.0,-8.0
+638,2026-08-19,Japan,Emperor Cup,HOME,HOME,1,35.0,8.0
+639,2026-08-06,Australia,South Australia State League 1,HOME,AWAY,0,45.0,5.0
+640,2026-08-08,Uruguay,Primera División,HOME,HOME,1,84.0,8.0
+641,2026-08-15,Sweden,Elitettan,HOME,HOME,1,83.0,6.0
+642,2026-09-06,Norway,3. Division - Girone 4,HOME,HOME,1,14.0,2.0
+643,2026-08-18,Argentina,Reserve League,HOME,AWAY,0,60.0,-3.0
+644,2026-08-06,World,Friendlies Clubs,HOME,HOME,1,65.0,-2.0
+645,2026-08-22,Burundi,Ligue A,HOME,DRAW,0,10.0,6.0
+646,2026-06-24,Sweden,Division 2 - Västra Götaland,HOME,HOME,1,,8.0
+647,2026-08-14,Poland,III Liga - Group 2,HOME,AWAY,0,25.0,6.0
+648,2026-09-05,England,FA Cup,HOME,DRAW,0,55.0,-5.0
+649,2026-08-02,Argentina,Primera Nacional,HOME,HOME,1,65.0,4.0
+650,2026-08-07,Wales,Premier League,HOME,DRAW,0,40.0,9.0
+651,2026-08-08,Germany,Oberliga - Bayern Süd,HOME,HOME,1,30.0,4.0
+652,2026-08-03,Estonia,Esiliiga A,HOME,AWAY,0,34.0,7.0
+653,2026-08-26,Argentina,Reserve League,HOME,DRAW,0,58.0,9.0
+654,2026-08-23,Sweden,Division 2 - Norra Svealand,HOME,AWAY,0,37.0,-1.0
+655,2026-07-29,Argentina,Liga Profesional,HOME,HOME,1,52.0,-3.0
+656,2026-07-19,USA,MLS Next Pro,HOME,HOME,1,39.0,9.0
+657,2026-07-30,USA,NWSL Women,HOME,AWAY,0,26.0,-4.0
+658,2026-07-26,China,Chinese Super League,HOME,HOME,1,64.0,7.0
+659,2026-09-06,Spain,Tercera División RFEF - Group 14,HOME,AWAY,0,24.0,-2.0
+660,2026-07-02,Morocco,Botola Pro,HOME,DRAW,0,63.0,-2.0
+661,2026-07-31,Lithuania,1 Lyga,HOME,AWAY,0,45.0,2.0
+662,2026-08-13,World,UEFA Europa Conference League,HOME,HOME,1,26.0,4.0
+663,2026-09-05,Australia,Queensland NPL,HOME,HOME,1,30.0,1.0
+664,2026-07-31,Germany,Regionalliga - Nordost,HOME,AWAY,0,65.0,-7.0
+665,2026-07-18,World,Friendlies Clubs,HOME,HOME,1,30.0,-2.0
+666,2026-08-22,Finland,Kakkonen - Lohko A,HOME,HOME,1,36.0,-4.0
+667,2026-06-21,Mongolia,Premier League,HOME,AWAY,0,,-9.0
+668,2026-08-15,Poland,III Liga - Group 4,HOME,AWAY,0,31.0,2.0
+669,2026-08-12,Romania,Cupa României,HOME,HOME,1,40.0,-6.0
+670,2026-08-23,Poland,III Liga - Group 1,HOME,HOME,1,98.0,6.0
+671,2026-08-13,USA,USL League One Cup,HOME,DRAW,0,35.0,3.0
+672,2026-09-06,Spain,Tercera División RFEF - Group 5,HOME,DRAW,0,24.0,-1.0
+673,2026-08-09,China,Chinese Super League,HOME,HOME,1,39.0,8.0
+674,2026-07-31,Brazil,Paulista - U20,HOME,HOME,1,45.0,4.0
+675,2026-07-05,USA,USL League Two,HOME,HOME,1,5.0,-2.0
+676,2026-08-11,Brazil,Brasileiro U17,HOME,HOME,1,60.0,0.0
+677,2026-08-15,Sweden,Damallsvenskan,HOME,AWAY,0,75.0,9.0
+678,2026-06-22,Sweden,Superettan,HOME,DRAW,0,,5.0
+679,2026-06-28,Morocco,Botola Pro,HOME,HOME,1,,-9.0
+680,2026-07-26,Australia,Australia Cup,HOME,AWAY,0,39.0,6.0
+681,2026-08-14,France,Ligue 3,HOME,AWAY,0,28.0,-2.0
+682,2026-09-06,Finland,Kakkonen - Lohko C,HOME,AWAY,0,18.0,3.0
+683,2026-07-16,Brazil,Paulista - U20,HOME,DRAW,0,79.0,9.0
+684,2026-09-05,Sweden,Damallsvenskan,HOME,AWAY,0,35.0,3.0
+685,2026-09-05,England,FA Cup,HOME,HOME,1,0.0,3.0
+686,2026-08-15,Wales,FAW Championship,HOME,AWAY,0,80.0,3.0
+687,2026-08-01,World,Friendlies Clubs,HOME,HOME,1,64.0,8.0
+688,2026-08-20,USA,Major League Soccer,HOME,AWAY,0,64.0,6.0
+689,2026-08-02,South Korea,K League 2,HOME,AWAY,0,66.0,-5.0
+690,2026-09-05,Georgia,Erovnuli Liga,HOME,HOME,1,29.0,0.0
+691,2026-09-05,Israel,Ligat Ha'al,HOME,HOME,1,55.0,5.0
+692,2026-08-02,Lithuania,1 Lyga,HOME,HOME,1,24.0,6.0
+693,2026-07-08,Ecuador,Liga Pro Serie B,HOME,AWAY,0,11.0,-7.0
+694,2026-09-05,Iceland,1. Deild,HOME,AWAY,0,30.0,-3.0
+695,2026-08-14,Australia,Victoria Premier League 2,HOME,AWAY,0,52.0,-5.0
+696,2026-07-09,Finland,Kakkonen - Lohko B,HOME,HOME,1,79.0,9.0
+697,2026-08-10,Argentina,Primera Nacional,HOME,AWAY,0,80.0,4.0
+698,2026-08-14,Ireland,FAI Cup,HOME,HOME,1,36.0,-5.0
+699,2026-08-05,World,Friendlies Clubs,HOME,HOME,1,80.0,4.0
+700,2026-09-05,Brazil,Carioca U20,HOME,DRAW,0,11.0,-8.0
+701,2026-09-06,Spain,Tercera División RFEF - Group 16,HOME,AWAY,0,28.0,8.0
+702,2026-09-05,Zimbabwe,Premier Soccer League,HOME,DRAW,0,25.0,8.0
+703,2026-07-25,Australia,Victoria Premier League 2,HOME,DRAW,0,34.0,-7.0
+704,2026-08-13,World,UEFA Europa League,HOME,HOME,1,90.0,7.0
+705,2026-08-23,Slovakia,Super Liga,HOME,HOME,1,61.0,3.0
+706,2026-08-23,Honduras,Liga Nacional,HOME,HOME,1,38.0,1.0
+707,2026-09-05,World,CAF Confederation Cup,HOME,DRAW,0,21.0,-7.0
+708,2026-08-14,Poland,III Liga - Group 1,HOME,HOME,1,34.0,-1.0
+709,2026-08-15,Slovakia,2. liga,HOME,HOME,1,20.0,5.0
+710,2026-08-19,World,UEFA Champions League,HOME,HOME,1,26.0,5.0
+711,2026-09-05,Germany,Oberliga - Rheinland-Pfalz / Saar,HOME,HOME,1,55.0,-5.0
+712,2026-08-15,Wales,FAW Championship,HOME,AWAY,0,60.0,-5.0
+713,2026-08-16,USA,MLS Next Pro,HOME,AWAY,0,64.0,9.0
+714,2026-09-05,Iceland,1. Deild,HOME,HOME,1,24.0,-4.0
+715,2026-09-05,Japan,J3 League,HOME,AWAY,0,15.0,0.0
+716,2026-07-21,Lithuania,1 Lyga,HOME,AWAY,0,12.0,0.0
+717,2026-08-15,Germany,Oberliga - Rheinland-Pfalz / Saar,HOME,AWAY,0,65.0,-9.0
+718,2026-08-08,Australia,Npl Nsw U20,HOME,HOME,1,45.0,2.0
+719,2026-07-31,Ireland,First Division,HOME,AWAY,0,84.0,8.0
+720,2026-08-21,Wales,FAW Championship,HOME,AWAY,0,20.0,1.0
+721,2026-08-05,Finland,Ykkönen,HOME,DRAW,0,30.0,-2.0
+722,2026-09-05,Iceland,2. Deild,HOME,AWAY,0,60.0,-3.0
+723,2026-09-06,Bulgaria,Second League,HOME,HOME,1,55.0,4.0
+724,2026-08-01,Australia,Npl Nsw U20,HOME,HOME,1,41.0,7.0
+725,2026-09-06,Hungary,NB III - Northwest,HOME,AWAY,0,30.0,4.0
+726,2026-08-12,Romania,Cupa României,HOME,AWAY,0,30.0,9.0
+727,2026-09-06,South-Korea,K3 League,HOME,DRAW,0,14.0,-3.0
+728,2026-08-26,Japan,Emperor Cup,HOME,HOME,1,51.0,-3.0
+729,2026-09-05,Brazil,Goiano - 2,HOME,DRAW,0,80.0,3.0
+730,2026-09-06,Portugal,Campeonato de Portugal Prio - Group B,HOME,DRAW,0,42.0,14.0
+731,2026-08-23,Germany,2. Frauen Bundesliga,HOME,AWAY,0,73.0,15.0
+732,2026-08-15,Saudi-Arabia,Pro League,HOME,DRAW,0,100.0,11.0
+733,2026-08-08,Russia,Second League - Group 3,HOME,HOME,1,34.0,11.0
+734,2026-09-05,Switzerland,1. Liga Promotion,HOME,HOME,1,23.0,-11.0
+735,2026-08-15,Norway,3. Division - Girone 6,HOME,HOME,1,49.0,-10.0
+736,2026-08-08,Poland,III Liga - Group 4,HOME,HOME,1,93.0,15.0
+737,2026-07-26,Czech-Republic,FNL,HOME,DRAW,0,35.0,11.0
+738,2026-09-06,Germany,2. Frauen Bundesliga,HOME,HOME,1,63.0,19.0
+739,2026-08-16,Luxembourg,National Division,HOME,HOME,1,78.0,13.0
+740,2026-09-06,Bulgaria,Second League,HOME,HOME,1,87.0,11.0
+741,2026-07-31,World,Central American and Caribbean Games,HOME,HOME,1,48.0,11.0
+742,2026-09-06,Italy,Serie D - Girone A,HOME,AWAY,0,13.0,11.0
+743,2026-08-20,Russia,First League,HOME,HOME,1,33.0,-12.0
+744,2026-07-25,World,Friendlies Clubs,HOME,HOME,1,49.0,16.0
+745,2026-08-08,Sweden,Elitettan,HOME,HOME,1,46.0,13.0
+746,2026-07-25,Kazakhstan,Premier League,HOME,AWAY,0,87.0,15.0
+747,2026-09-06,USA,USL Super League,HOME,HOME,1,48.0,18.0
+748,2026-06-24,USA,USL League Two,HOME,AWAY,0,,-14.0
+749,2026-07-25,Ukraine,Persha Liga,HOME,DRAW,0,35.0,11.0
+750,2026-06-22,USA,USL League Two,HOME,AWAY,0,,-14.0
+751,2026-06-28,Brazil,Brasileirão Serie B,HOME,HOME,1,,12.0
+752,2026-09-05,Poland,III Liga - Group 3,HOME,HOME,1,65.0,10.0
+753,2026-08-08,Northern-Ireland,Championship,HOME,AWAY,0,70.0,10.0
+754,2026-09-06,Brazil,Gaúcho - 3,HOME,HOME,1,38.0,18.0
+755,2026-08-23,United-Arab-Emirates,Pro League U23,HOME,AWAY,0,78.0,11.0
+756,2026-07-19,South Korea,K League 2,HOME,HOME,1,74.0,12.0
+757,2026-08-23,Hungary,NB II,HOME,HOME,1,33.0,12.0
+758,2026-08-01,Czech Republic,Cup,HOME,AWAY,0,72.0,14.0
+759,2026-08-22,Mexico,Liga MX,HOME,AWAY,0,39.0,10.0
+760,2026-07-27,World,Friendlies Clubs,HOME,AWAY,0,77.0,14.0
+761,2026-08-19,South-Korea,FA Cup,HOME,DRAW,0,72.0,17.0
+762,2026-08-01,Germany,Oberliga - Bayern Süd,HOME,AWAY,0,35.0,-11.0
+763,2026-07-15,Europe,Conference League,HOME,AWAY,0,49.0,18.0
+764,2026-07-24,World,Friendlies Clubs,HOME,HOME,1,3.0,-15.0
+765,2026-08-08,Hungary,NB II,HOME,DRAW,0,48.0,13.0
+766,2026-08-15,Hungary,NB I,HOME,HOME,1,34.0,10.0
+767,2026-08-01,World,Friendlies Clubs,HOME,HOME,1,57.0,19.0
+768,2026-08-09,Czech-Republic,3. liga - MSFL,HOME,DRAW,0,93.0,16.0
+769,2026-07-17,China,Chinese Super League,HOME,DRAW,0,57.0,16.0
+770,2026-08-24,Paraguay,Division Profesional - Clausura,HOME,HOME,1,11.0,-18.0
+771,2026-09-05,England,FA Cup,HOME,AWAY,0,48.0,15.0
+772,2026-06-27,Norway,1. divisjon,HOME,HOME,1,,16.0
+773,2026-08-14,World,Friendlies Clubs,HOME,DRAW,0,92.0,18.0
+774,2026-06-26,Sweden,Division 2 - Västra Götaland,HOME,AWAY,0,,14.0
+775,2026-09-05,Sweden,Division 2 - Norrland,HOME,DRAW,0,66.0,13.0
+776,2026-08-01,Russia,Premier League,HOME,AWAY,0,21.0,-14.0
+777,2026-07-11,Iceland,2. Deild,HOME,DRAW,0,83.0,16.0
+778,2026-07-27,USA,MLS Next Pro,HOME,HOME,1,47.0,15.0
+779,2026-07-26,Australia,New South Wales NPL 2,HOME,AWAY,0,28.0,-11.0
+780,2026-07-25,World,Friendlies Clubs,HOME,HOME,1,92.0,11.0
+781,2026-07-18,Sweden,Superettan,HOME,HOME,1,38.0,10.0
+782,2026-07-24,Argentina,Liga Profesional,HOME,HOME,1,73.0,14.0
+783,2026-08-01,Estonia,Esiliiga B,HOME,HOME,1,98.0,17.0
+784,2026-08-06,India,Calcutta Premier Division,HOME,HOME,1,17.0,13.0
+785,2026-07-21,World,Friendlies Clubs,HOME,AWAY,0,47.0,12.0
+786,2026-08-21,Portugal,Liga 3,HOME,DRAW,0,73.0,16.0
+787,2026-09-14,Guatemala,Liga Nacional,HOME,DRAW,0,41.0,19.0
+788,2026-06-24,USA,USL League Two,HOME,DRAW,0,,13.0
+789,2026-07-02,USA,USL League Two,HOME,HOME,1,92.0,19.0
+790,2026-08-22,Germany,Oberliga - Hessen,HOME,HOME,1,72.0,-18.0
+791,2026-08-01,World,Friendlies Clubs,HOME,HOME,1,72.0,19.0
+792,2026-07-25,World,CONCACAF U20,HOME,HOME,1,35.0,17.0
+793,2026-07-29,Colombia,Copa Colombia,HOME,HOME,1,61.0,12.0
+794,2026-09-05,Portugal,Liga 3,HOME,DRAW,0,42.0,16.0
+795,2026-07-28,World,Friendlies Clubs,HOME,HOME,1,32.0,16.0
+796,2026-08-25,England,Professional Development League,HOME,HOME,1,73.0,17.0
+797,2026-08-12,World,CONMEBOL Sudamericana,HOME,AWAY,0,100.0,11.0
+798,2026-08-13,Argentina,Reserve League,HOME,HOME,1,57.0,17.0
+799,2026-09-06,Turkey,3. Lig - Group 1,HOME,DRAW,0,31.0,14.0
+800,2026-09-05,Russia,Second League - Group 2,HOME,DRAW,0,66.0,11.0
+801,2026-08-09,World,Friendlies Clubs,HOME,HOME,1,72.0,13.0
+802,2026-09-06,Thailand,Thai League 2,HOME,AWAY,0,61.0,14.0
+803,2026-08-08,Czech-Republic,4. liga - Divizie E,HOME,AWAY,0,59.0,-14.0
+804,2026-08-01,Czech Republic,Cup,HOME,HOME,1,1.0,10.0
+805,2026-08-15,England,League One,HOME,HOME,1,48.0,11.0
+806,2026-08-15,Georgia,Erovnuli Liga,HOME,AWAY,0,92.0,17.0
+807,2026-07-25,Argentina,Primera B Metropolitana,HOME,DRAW,0,64.0,12.0
+808,2026-07-29,South America,Copa Sudamericana,HOME,HOME,1,98.0,16.0
+809,2026-08-05,Romania,Cupa României,HOME,HOME,1,56.0,16.0
+810,2026-08-18,Romania,Cupa României,HOME,DRAW,0,53.0,19.0
+811,2026-08-23,Romania,Liga II,HOME,DRAW,0,35.0,10.0
+812,2026-08-11,England,Non League Premier - Southern Central,HOME,DRAW,0,73.0,11.0
+813,2026-09-12,Honduras,Liga Nacional,HOME,DRAW,0,58.0,10.0
+814,2026-07-04,Australia,New South Wales NPL,HOME,HOME,1,83.0,14.0
+815,2026-08-16,Czech-Republic,3. liga - CFL B,HOME,DRAW,0,73.0,13.0
+816,2026-08-15,Germany,U19 Bundesliga,HOME,HOME,1,33.0,15.0
+817,2026-08-23,Poland,III Liga - Group 1,HOME,HOME,1,27.0,-18.0
+818,2026-08-12,Argentina,Reserve League,HOME,DRAW,0,58.0,-13.0
+819,2026-06-27,Iceland,2. Deild,HOME,HOME,1,,13.0
+820,2026-07-16,Germany,Oberliga - Bayern Süd,HOME,HOME,1,33.0,15.0
+821,2026-08-17,Brazil,Brasileiro U17,HOME,DRAW,0,47.0,16.0
+822,2026-08-22,Germany,DFB Pokal,HOME,AWAY,0,73.0,13.0
+823,2026-09-06,Czech-Republic,3. liga - MSFL,HOME,HOME,1,67.0,16.0
+824,2026-08-18,Iran,Persian Gulf Pro League,HOME,AWAY,0,24.0,12.0
+825,2026-09-05,Brazil,Pernambucano - U20,HOME,HOME,1,23.0,18.0
+826,2026-09-06,Italy,Serie D - Girone B,HOME,HOME,1,36.0,12.0
+827,2026-08-08,China,League Two,HOME,DRAW,0,32.0,13.0
+828,2026-07-25,Mexico,Liga de Expansión MX,HOME,AWAY,0,85.0,10.0
+829,2026-08-16,Spain,Segunda División,HOME,AWAY,0,78.0,10.0
+830,2026-08-16,Angola,Super Cup,HOME,HOME,1,73.0,14.0
+831,2026-08-22,Czech-Republic,4. liga - Divizie D,HOME,HOME,1,73.0,15.0
+832,2026-08-15,Netherlands,Eredivisie,HOME,AWAY,0,56.0,16.0
+833,2026-08-22,Malawi,Super League,HOME,HOME,1,73.0,-11.0
+834,2026-08-22,England,National League - South,HOME,AWAY,0,58.0,16.0
+835,2026-08-25,England,Premier League Cup,HOME,HOME,1,35.0,-10.0
+836,2026-08-19,Romania,Cupa României,HOME,HOME,1,38.0,12.0
+837,2026-07-11,Australia,Victoria NPL,HOME,DRAW,0,13.0,-19.0
+838,2026-08-16,Belgium,Jupiler Pro League,HOME,HOME,1,52.0,16.0
+839,2026-08-16,Netherlands,Eredivisie,HOME,DRAW,0,56.0,11.0
+840,2026-09-05,Spain,Primera División RFEF - Group 1,HOME,HOME,1,67.0,12.0
+841,2026-08-25,Czech-Republic,Cup,HOME,AWAY,0,92.0,18.0
+842,2026-08-16,Norway,Eliteserien,HOME,AWAY,0,42.0,13.0
+843,2026-08-17,Norway,3. Division - Girone 3,HOME,AWAY,0,13.0,-12.0
+844,2026-09-05,Slovakia,2. liga,HOME,HOME,1,26.0,11.0
+845,2026-09-05,Kuwait,Premier League,HOME,HOME,1,66.0,19.0
+846,2026-08-01,Ukraine,Ukrainian Premier League,HOME,HOME,1,93.0,18.0
+847,2026-08-01,Wales,Premier League,HOME,HOME,1,18.0,12.0
+848,2026-08-08,Hungary,NB III - Southeast,HOME,AWAY,0,59.0,-11.0
+849,2026-07-23,USA,USL Championship,HOME,HOME,1,92.0,15.0
+850,2026-09-14,Honduras,Liga Nacional,HOME,HOME,1,18.0,12.0
+851,2026-09-05,Spain,Tercera División RFEF - Group 1,HOME,AWAY,0,23.0,12.0
+852,2026-07-31,Brazil,Brasileirão Serie A,HOME,AWAY,0,24.0,-10.0
+853,2026-08-14,Germany,Regionalliga - West,HOME,AWAY,0,93.0,18.0
+854,2026-07-26,Finland,Kakkonen - Lohko C,HOME,AWAY,0,77.0,11.0
+855,2026-09-06,World,AFC U20 Asian Cup,HOME,HOME,1,30.0,10.0
+856,2026-08-07,World,Friendlies Clubs,HOME,HOME,1,28.0,-12.0
+857,2026-08-15,Australia,New South Wales NPL 2,HOME,HOME,1,92.0,18.0
+858,2026-08-23,Belgium,Challenger Pro League,HOME,AWAY,0,73.0,17.0
+859,2026-07-26,World,COTIF Tournament,HOME,AWAY,0,44.0,-15.0
+860,2026-09-05,England,National League - North,HOME,AWAY,0,67.0,12.0
+861,2026-08-16,Finland,Ykkönen,HOME,DRAW,0,18.0,-18.0
+862,2026-08-22,England,U18 Premier League - South,HOME,AWAY,0,58.0,12.0
+863,2026-09-05,Germany,Oberliga - Bayern Nord,HOME,HOME,1,58.0,10.0
+864,2026-09-06,Norway,3. Division - Girone 5,HOME,AWAY,0,28.0,-15.0
+865,2026-09-05,Germany,Oberliga - Hessen,HOME,AWAY,0,55.0,18.0
+866,2026-09-06,Lesotho,Premier League,HOME,HOME,1,87.0,14.0
+867,2026-08-09,Venezuela,Primera División,HOME,AWAY,0,73.0,19.0
+868,2026-08-06,Ecuador,Liga Pro Serie B,HOME,AWAY,0,92.0,11.0
+869,2026-08-08,England,National League,HOME,HOME,1,85.0,10.0
+870,2026-09-06,Turkey,3. Lig - Group 1,HOME,AWAY,0,28.0,18.0
+871,2026-07-29,World,Friendlies Clubs,HOME,AWAY,0,72.0,17.0
+872,2026-08-20,Kazakhstan,1. Division,HOME,AWAY,0,58.0,-15.0
+873,2026-08-16,Germany,Regionalliga - Nordost,HOME,HOME,1,93.0,11.0
+874,2026-08-04,Colombia,Primera A,HOME,DRAW,0,78.0,11.0
+875,2026-07-27,Colombia,Primera B,HOME,HOME,1,93.0,13.0
+876,2026-07-29,World,Friendlies Clubs,HOME,HOME,1,72.0,14.0
+877,2026-07-25,El-Salvador,Primera Division,HOME,HOME,1,48.0,18.0
+878,2026-08-15,Scotland,Football League - Highland League,HOME,AWAY,0,19.0,-14.0
+879,2026-09-06,Andorra,1a Divisió,HOME,AWAY,0,22.0,-14.0
+880,2026-09-06,Poland,Ekstraklasa,HOME,HOME,1,41.0,12.0
+881,2026-07-22,Ecuador,Liga Pro,HOME,HOME,1,72.0,14.0
+882,2026-08-15,England,Non League Premier - Northern,HOME,DRAW,0,29.0,-15.0
+883,2026-07-11,Estonia,Meistriliiga,HOME,HOME,1,49.0,-11.0
+884,2026-08-15,Wales,FAW Championship,HOME,HOME,1,92.0,14.0
+885,2026-08-01,Australia,Queensland Premier League,HOME,HOME,1,43.0,-12.0
+886,2026-08-24,Sweden,Superettan,HOME,DRAW,0,28.0,-12.0
+887,2026-08-18,Russia,Cup,HOME,HOME,1,42.0,-11.0
+888,2026-08-14,Poland,III Liga - Group 3,HOME,DRAW,0,73.0,15.0
+889,2026-08-18,World,Friendlies Clubs,HOME,HOME,1,3.0,-11.0
+890,2026-07-26,Iceland,Úrvalsdeild,HOME,DRAW,0,49.0,10.0
+891,2026-08-12,World,Friendlies Clubs,HOME,DRAW,0,77.0,17.0
+892,2026-08-09,Russia,First League,HOME,HOME,1,39.0,13.0
+893,2026-08-15,Czech-Republic,4. liga - Divizie B,HOME,DRAW,0,19.0,-14.0
+894,2026-07-29,Lebanon,Premier League,HOME,HOME,1,21.0,-10.0
+895,2026-08-17,Iceland,1. Deild,HOME,HOME,1,77.0,14.0
+896,2026-08-08,Germany,2. Bundesliga,HOME,HOME,1,29.0,-11.0
+897,2026-08-22,Denmark,3. Division,HOME,HOME,1,25.0,-10.0
+898,2026-07-14,Finland,Kakkonen - Lohko B,HOME,HOME,1,37.0,12.0
+899,2026-07-26,Brazil,Brasileirão Serie A,HOME,AWAY,0,39.0,10.0
+900,2026-08-21,Albania,Superliga,HOME,DRAW,0,11.0,-12.0
+901,2026-08-21,Malta,Premier League,HOME,HOME,1,50.0,10.0
+902,2026-08-21,Austria,Regionalliga - North,HOME,HOME,1,72.0,15.0
+903,2026-08-16,Burundi,Ligue A,HOME,DRAW,0,28.0,17.0
+904,2026-09-05,Switzerland,1. Liga Promotion,HOME,HOME,1,37.0,17.0
+905,2026-09-06,Italy,Serie B,HOME,AWAY,0,76.0,11.0
+906,2026-07-25,Russia,Second League A - Division A Silver,HOME,DRAW,0,70.0,10.0
+907,2026-08-15,Romania,Liga II,HOME,HOME,1,33.0,12.0
+908,2026-08-15,Finland,Kakkonen - Lohko B,HOME,HOME,1,100.0,19.0
+909,2026-08-25,Brazil,Brasileiro U17,HOME,HOME,1,64.0,20.0
+910,2026-08-23,Belgium,Jupiler Pro League,HOME,HOME,1,92.0,25.0
+911,2026-07-25,Ecuador,Liga Pro Serie B,HOME,HOME,1,77.0,28.0
+912,2026-08-08,USA,MLS Next Pro,HOME,HOME,1,92.0,26.0
+913,2026-08-09,Australia,Northern NSW NPL,HOME,AWAY,0,82.0,29.0
+914,2026-06-22,Mongolia,Premier League,HOME,HOME,1,,20.0
+915,2026-07-25,Norway,3. Division - Girone 2,HOME,HOME,1,32.0,27.0
+916,2026-07-22,World,Friendlies Clubs,HOME,HOME,1,92.0,29.0
+917,2026-08-07,Finland,Kakkonen - Lohko A,HOME,HOME,1,100.0,29.0
+918,2026-08-01,Norway,Eliteserien,HOME,AWAY,0,34.0,-27.0
+919,2026-09-05,United-Arab-Emirates,Division 1,HOME,HOME,1,4.0,-24.0
+920,2026-08-23,Portugal,Campeonato de Portugal Prio - Group D,HOME,AWAY,0,19.0,-21.0
+921,2026-06-26,Australia,Victoria NPL,HOME,AWAY,0,,22.0
+922,2026-07-11,World,International Friendlies,HOME,DRAW,0,57.0,28.0
+923,2026-09-05,Latvia,1. Liga,HOME,HOME,1,66.0,28.0
+924,2026-08-01,Denmark,3. Division,HOME,HOME,1,73.0,26.0
+925,2026-08-07,Germany,Oberliga - Hessen,HOME,AWAY,0,57.0,-28.0
+926,2026-08-23,Germany,Oberliga - Rheinland-Pfalz / Saar,HOME,HOME,1,93.0,23.0
+927,2026-07-29,World,Friendlies Clubs,HOME,HOME,1,92.0,28.0
+928,2026-08-22,England,National League,HOME,DRAW,0,93.0,28.0
+929,2026-08-15,Norway,2. Division - Group 1,HOME,AWAY,0,63.0,-21.0
+930,2026-08-05,Uzbekistan,Pro League A,HOME,DRAW,0,93.0,21.0
+931,2026-08-26,Japan,Emperor Cup,HOME,HOME,1,57.0,29.0
+932,2026-07-16,Europe,Conference League,HOME,HOME,1,77.0,25.0
+933,2026-07-22,Morocco,Botola 2,HOME,HOME,1,64.0,22.0
+934,2026-07-25,Georgia,David Kipiani Cup,HOME,AWAY,0,38.0,22.0
+935,2026-08-03,Colombia,Liga Femenina,HOME,AWAY,0,100.0,27.0
+936,2026-08-21,Brazil,Carioca U20,HOME,HOME,1,11.0,-28.0
+937,2026-08-02,Czech-Republic,FNL,HOME,DRAW,0,100.0,28.0
+938,2026-09-05,Brazil,Brasileiro U17,HOME,HOME,1,86.0,20.0
+939,2026-08-15,Bulgaria,Third League - Southwest,HOME,HOME,1,78.0,28.0
+940,2026-08-02,China,League One,HOME,DRAW,0,77.0,26.0
+941,2026-08-07,Iceland,1. Deild,HOME,HOME,1,77.0,28.0
+942,2026-07-28,World,CECAFA Club Cup,HOME,AWAY,0,78.0,22.0
+943,2026-09-06,Spain,Tercera División RFEF - Group 13,HOME,DRAW,0,38.0,20.0
+944,2026-09-05,Norway,3. Division - Girone 1,HOME,HOME,1,96.0,26.0
+945,2026-07-25,World,Friendlies Clubs,HOME,HOME,1,57.0,23.0
+946,2026-07-25,World,Friendlies Clubs,HOME,AWAY,0,72.0,26.0
+947,2026-08-22,Scotland,Football League - Lowland League,HOME,DRAW,0,91.0,27.0
+948,2026-08-23,Sweden,Damallsvenskan,HOME,HOME,1,63.0,26.0
+949,2026-07-26,Russia,Second League - Group 3,HOME,AWAY,0,53.0,-23.0
+950,2026-08-20,World,UEFA Europa League,HOME,HOME,1,98.0,21.0
+951,2026-07-26,Brazil,Brasiliense U20,HOME,HOME,1,87.0,25.0
+952,2026-06-25,Chile,Copa Chile,HOME,HOME,1,,20.0
+953,2026-07-28,World,Friendlies Clubs,HOME,DRAW,0,77.0,25.0
+954,2026-07-26,World,International Friendlies,HOME,HOME,1,72.0,29.0
+955,2026-07-24,World,Friendlies Clubs,HOME,AWAY,0,72.0,21.0
+956,2026-07-25,Chile,Primera B,HOME,HOME,1,93.0,22.0
+957,2026-08-22,Poland,I Liga,HOME,DRAW,0,47.0,20.0
+958,2026-07-26,Ukraine,Persha Liga,HOME,DRAW,0,50.0,23.0
+959,2026-08-09,Czech-Republic,FNL,HOME,AWAY,0,53.0,20.0
+960,2026-09-05,Sweden,Damallsvenskan,HOME,HOME,1,72.0,27.0
+961,2026-07-21,Scotland,Scottish League Cup,HOME,HOME,1,72.0,24.0
+962,2026-08-13,World,CONCACAF Central American Cup,HOME,DRAW,0,86.0,23.0
+963,2026-08-26,Czech-Republic,1. Liga U19,HOME,HOME,1,87.0,22.0
+964,2026-08-08,World,Friendlies Clubs,HOME,DRAW,0,92.0,21.0
+965,2026-08-22,Australia,Capital Territory NPL,HOME,HOME,1,100.0,22.0
+966,2026-08-16,USA,USL League One,HOME,HOME,1,18.0,-28.0
+967,2026-08-18,Israel,Liga Leumit,HOME,HOME,1,45.0,25.0
+968,2026-08-23,Poland,III Liga - Group 2,HOME,AWAY,0,78.0,25.0
+969,2026-08-21,Bolivia,Primera División,HOME,HOME,1,98.0,21.0
+970,2026-09-05,Norway,1. Division,HOME,HOME,1,86.0,20.0
+971,2026-08-15,Germany,U19 Bundesliga,HOME,HOME,1,59.0,-26.0
+972,2026-08-15,Australia,Western Australia State League 1,HOME,HOME,1,57.0,25.0
+973,2026-08-08,Sweden,Division 2 - Södra Svealand,HOME,DRAW,0,34.0,25.0
+974,2026-09-05,Poland,III Liga - Group 1,HOME,HOME,1,80.0,22.0
+975,2026-08-14,Kazakhstan,1. Division,HOME,HOME,1,77.0,20.0
+976,2026-08-08,China,League Two,HOME,HOME,1,77.0,29.0
+977,2026-07-26,Russia,Second League - Group 2,HOME,DRAW,0,77.0,23.0
+978,2026-08-15,England,U18 Premier League - North,HOME,AWAY,0,28.0,22.0
+979,2026-09-05,England,FA Cup,HOME,HOME,1,87.0,22.0
+980,2026-08-16,Sweden,Division 2 - Södra Götaland,HOME,HOME,1,71.0,27.0
+981,2026-08-21,South-Africa,1st Division,HOME,HOME,1,93.0,22.0
+982,2026-06-27,Australia,Tasmania NPL,HOME,DRAW,0,,24.0
+983,2026-08-22,Poland,Central Youth League,HOME,DRAW,0,58.0,23.0
+984,2026-08-07,South-Korea,WK-League,HOME,AWAY,0,47.0,23.0
+985,2026-08-15,Czech-Republic,1. Liga U19,HOME,DRAW,0,78.0,26.0
+986,2026-08-22,Scotland,Football League - Lowland League,HOME,AWAY,0,61.0,22.0
+987,2026-08-22,England,National League - North,HOME,DRAW,0,93.0,21.0
+988,2026-08-22,Czech-Republic,4. liga - Divizie E,HOME,HOME,1,73.0,27.0
+989,2026-07-31,World,Friendlies Clubs,HOME,DRAW,0,92.0,24.0
+990,2026-08-08,Norway,1. divisjon,HOME,HOME,1,92.0,27.0
+991,2026-09-05,San-Marino,Campionato,HOME,HOME,1,67.0,25.0
+992,2026-08-16,Costa-Rica,Primera División,HOME,HOME,1,73.0,23.0
+993,2026-07-25,Australia,Western Australia State League 1,HOME,HOME,1,77.0,44.0
+994,2026-07-27,Bolivia,Primera División,HOME,HOME,1,25.0,31.0
+995,2026-08-14,Russia,Youth Championship,HOME,HOME,1,10.0,-31.0
+996,2026-07-07,USA,USL League Two,HOME,HOME,1,38.0,34.0
+997,2026-08-02,Austria,Regionalliga - West,HOME,DRAW,0,71.0,42.0
+998,2026-08-15,England,National League,HOME,HOME,1,78.0,40.0
+999,2026-08-23,Malawi,Super League,HOME,DRAW,0,87.0,62.0
+1000,2026-08-10,Uzbekistan,Pro League A,HOME,HOME,1,100.0,32.0
